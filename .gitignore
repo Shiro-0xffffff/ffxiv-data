@@ -21,3 +21,5 @@ Thumbs.db
 # Resource files
 ui
 music
+data/ui
+data/music
