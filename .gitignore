@@ -18,6 +18,6 @@ Thumbs.db
 !.vscode/launch.json
 !.vscode/extensions.json
 
-#
+# Resource files
 ui
 music
