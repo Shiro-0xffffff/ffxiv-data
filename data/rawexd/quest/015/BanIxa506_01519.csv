@@ -14,7 +14,7 @@ int32,str,str
 4,"TEXT_BANIXA506_01519_SEQ_04","可以使用制作设施了。用<Sheet(Item,8077,0)/>制作2个<Sheet(ItemHQ,8118,0)/>，并将其交给长风实验场的工匠多扎尔·梅耶安。
 
 ※如果“制作设施：专项工作”的状态效果消失了，或者<Sheet(Item,　8077,0)/>不足的话，就和菲厄布瑞达对话，即可重获状态效果和材料，并再次进行挑战。"
-5,"TEXT_BANIXA506_01519_SEQ_05","将<Sheet(ItemHQ,8118,0)/>交给了工匠多扎尔·梅耶安。通过与冒险者制作的高品质产品进行对比，之前的瑕疵都浮出了水面，他为之烦恼的技术难题也得到了解决。另一方面，之前与异端者们的冲突，也揭示着很深刻的背景与问题。希望有朝一日也能发现这些问题的解决之法。"
+5,"TEXT_BANIXA506_01519_SEQ_05","将<Sheet(ItemHQ,8118,0)/>交给了工匠多扎尔·梅耶安。通过与冒险者制作的优质产品进行对比，之前的瑕疵都浮出了水面，他为之烦恼的技术难题也得到了解决。另一方面，之前与异端者们的冲突，也揭示着很深刻的背景与问题。希望有朝一日也能发现这些问题的解决之法。"
 6,"TEXT_BANIXA506_01519_SEQ_06","空"
 7,"TEXT_BANIXA506_01519_SEQ_07","空"
 8,"TEXT_BANIXA506_01519_SEQ_08","空"
@@ -36,7 +36,7 @@ int32,str,str
 24,"TEXT_BANIXA506_01519_TODO_00","和丧灵钟的菲厄布瑞达对话"
 25,"TEXT_BANIXA506_01519_TODO_01","和废弃营地形似异端者的男性对话 如被袭击则展开讨伐"
 26,"TEXT_BANIXA506_01519_TODO_02","将<Sheet(EventItem,2001421,0)/>交给丧灵钟的菲厄布瑞达"
-27,"TEXT_BANIXA506_01519_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务5级：制作<Sheet(ItemHQ,　8118,0)/><Else/>将<Sheet(ItemHQ,　8118,0)/>交给工匠多扎尔·梅耶安</If>"
+27,"TEXT_BANIXA506_01519_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务15级：制作<Sheet(ItemHQ,　8118,0)/><Else/>将<Sheet(ItemHQ,　8118,0)/>交给工匠多扎尔·梅耶安</If>"
 28,"TEXT_BANIXA506_01519_TODO_04","空"
 29,"TEXT_BANIXA506_01519_TODO_05","空"
 30,"TEXT_BANIXA506_01519_TODO_06","空"

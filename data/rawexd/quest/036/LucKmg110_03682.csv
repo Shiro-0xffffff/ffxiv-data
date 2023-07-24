@@ -101,7 +101,7 @@ int32,str,str
 那接下来就只需要研究如何收纳记忆并回归肉体了是吧？"
 73,"TEXT_LUCKMG110_03682_BEQLUGG_104_047","没错。
 虽然不简单，但也不是完全没线索。
-其实，水晶公有个非常好的提案……"
+其实，水晶公有个好主意……"
 74,"TEXT_LUCKMG110_03682_MYSTERYVOICE_105_047","我听说是维持与嵌写记忆，
 便想到了一件事，或许能派上用场。"
 75,"TEXT_LUCKMG110_03682_MYSTERYVOICE_000_050","<Highlight>ObjectParameter(1)</Highlight>，不知道你还记不记得？
@@ -139,7 +139,7 @@ int32,str,str
 87,"TEXT_LUCKMG110_03682_YSHTOLA_000_095","好了，去续饭亭买份咖啡曲奇，
 好好享受一下美味的下午茶吧。
 如果不适当地转换心情，研究也会陷入瓶颈呢。"
-88,"TEXT_LUCKMG110_03682_BEQLUGG_000_100","在研究的这段时间内，要是与身体的联系断掉的话，
+88,"TEXT_LUCKMG110_03682_BEQLUGG_000_100","在研究期间，要是与身体的联系断掉的话，
 那一切就都白费了……
 所以得让那边的人努力维持住他们的身体才行。"
 89,"TEXT_LUCKMG110_03682_MYSTERYVOICE_000_105","为了让大家能够带着记忆平安回去，
@@ -187,7 +187,7 @@ int32,str,str
 116,"TEXT_LUCKMG110_03682_ESTINIEN_200_516","这样下去可不是办法。"
 117,"TEXT_LUCKMG110_03682_ANNIAQUOSORANUS_101_516","（★未使用／削除予定★）"
 118,"TEXT_LUCKMG110_03682_SHADOWHUNTER_201_516","那就一口气全都解决掉，然后突破这里吧！"
-119,"TEXT_LUCKMG110_03682_JULIAQUOSORANUS_102_516","唔啊啊啊！！"
+119,"TEXT_LUCKMG110_03682_JULIAQUOSORANUS_102_516","哇——"
 120,"TEXT_LUCKMG110_03682_ANNIAQUOSORANUS_103_516","呜……陛下！！"
 121,"TEXT_LUCKMG110_03682_JULIAQUOSORANUS_104_516","绝对不能让入侵者跑掉！
 把所有能启动的魔导装甲全都派出来！"
@@ -205,7 +205,7 @@ int32,str,str
 128,"TEXT_LUCKMG110_03682_SYSTEM_000_700","原初世界 加雷马帝国首都——"
 129,"TEXT_LUCKMG110_03682_THIRDLEGIONCENTURION_000_701","歼灭所有贼军！
 配得上皇位的只有涅尔瓦大人！"
-130,"TEXT_LUCKMG110_03682_THIRDLEGIONCENTURION_000_702","啊啊……"
+130,"TEXT_LUCKMG110_03682_THIRDLEGIONCENTURION_000_702","啊……"
 131,"TEXT_LUCKMG110_03682_FIRSTLEGIONCENTURION_000_703","涅尔瓦的蠢猪们……
 只要把他们全都猎杀，我们就能取得胜利了！
 前进！前进！！"
@@ -227,8 +227,8 @@ int32,str,str
 据说还会把塔罗斯免费借给人们。"
 141,"TEXT_LUCKMG110_03682_DIRTYMAN_000_753","哦？你这个听着也很诱人呢。
 我该去哪边呢？好难选……"
-142,"TEXT_LUCKMG110_03682_SHABBYWOMAN_000_754","只要有了工作，就能让孩子们吃上饱饭了。
-也算是看到些希望了，不是吗？"
+142,"TEXT_LUCKMG110_03682_SHABBYWOMAN_000_754","只要有了工作，就能让孩子们吃上饱饭。
+多少看到些希望了，不是吗？"
 143,"TEXT_LUCKMG110_03682_PALEFACEMAN_000_755","(-？？？？-)希望……吗？"
 144,"TEXT_LUCKMG110_03682_PALEFACEMAN_100_755","那么，作为留下来的最后一人，
 为了我们的夙愿，我将点亮希望之光……"

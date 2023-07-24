@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_BANNAM503_03117_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-※本任务进行时需要与接受任务时的职业相同才可继续进行任务。
+※本任务需要与接受任务时的职业相同才可继续进行任务。
 
 朵洛衣楼的光风院霁月好像有什么想法。"
-1,"TEXT_BANNAM503_03117_SEQ_01","和昂萨哈凯尔的鲶鱼精工匠交谈。"
-2,"TEXT_BANNAM503_03117_SEQ_02","和昂萨哈凯尔的鲶鱼精工匠进行了交谈。
-交纳光风院霁月委托的东西。"
+1,"TEXT_BANNAM503_03117_SEQ_01","和昂萨哈凯尔的鲶鱼精工匠交谈"
+2,"TEXT_BANNAM503_03117_SEQ_02","和昂萨哈凯尔的鲶鱼精工匠进行了交谈
+交纳光风院霁月委托的东西"
 3,"TEXT_BANNAM503_03117_SEQ_03",""
 4,"TEXT_BANNAM503_03117_SEQ_04",""
 5,"TEXT_BANNAM503_03117_SEQ_05",""
@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_BANNAM503_03117_SEQ_22",""
 23,"TEXT_BANNAM503_03117_SEQ_23",""
 24,"TEXT_BANNAM503_03117_TODO_00","和昂萨哈凯尔的鲶鱼精工匠对话"
-25,"TEXT_BANNAM503_03117_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在恰佳遗骨堂南边的石场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在恰佳遗骨堂南边的草场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在亚特卡勒河上游钓<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+25,"TEXT_BANNAM503_03117_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在恰佳遗骨堂南边的石场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在恰佳遗骨堂南边的草场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在亚特卡勒河上游钓<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给光风院霁月</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
 26,"TEXT_BANNAM503_03117_TODO_02",""
 27,"TEXT_BANNAM503_03117_TODO_03",""
 28,"TEXT_BANNAM503_03117_TODO_04",""
@@ -62,7 +62,7 @@ int32,str,str
 50,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_002","我准备让鱼信来完成乐器的最终制作。
 所以就拜托你去趟恰佳遗骨堂，
 和负责收集素材的鲶鱼精工匠一起准备需要的零件。"
-51,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_010","你来的正好噗！
+51,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_010","你来得正好噗！
 我被委托负责制作乐器的零件，
 在制作过程中发现有些东西不够噗！"
 52,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_011","我需要的是作为<Sheet(Item,22737,0)/>的用来固定皮革的铆钉噗。

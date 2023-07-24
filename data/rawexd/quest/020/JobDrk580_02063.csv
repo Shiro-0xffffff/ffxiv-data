@@ -30,7 +30,7 @@ int32,str,str
 24,"TEXT_JOBDRK580_02063_TODO_00","和莫古力之家的莫古琪谈谈"
 25,"TEXT_JOBDRK580_02063_TODO_01","从<Sheet(EObj,2006346,0)/>获取<Sheet(EventItem,2001876,0)/>"
 26,"TEXT_JOBDRK580_02063_TODO_02","将<Sheet(EventItem,2001876,0)/>交给莫古琪"
-27,"TEXT_JOBDRK580_02063_TODO_03","在<Sheet(EObj,2006350,0)/>进行张望 讨伐<Sheet(BNpcName,4312,0)/>"
+27,"TEXT_JOBDRK580_02063_TODO_03","在<Sheet(EObj,2006350,0)/>张望 讨伐<Sheet(BNpcName,4312,0)/>"
 28,"TEXT_JOBDRK580_02063_TODO_04","和赎罪天廊的希德勒格对话"
 29,"TEXT_JOBDRK580_02063_TODO_05","再次和赎罪天廊的希德勒格对话"
 30,"TEXT_JOBDRK580_02063_TODO_06","和伊修加德的希德勒格对话"
@@ -203,7 +203,7 @@ int32,str,str
 116,"TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_150","好疼好疼好疼……
 真、真倒霉啊库啵。
 为什么下手如此狠毒库啵……"
-117,"TEXT_JOBDRK580_02063_SIDURGU_000_151","莉艾勒在哪儿，快说！
+117,"TEXT_JOBDRK580_02063_SIDURGU_000_151","莉艾勒在哪里，快说！
 再不说我就扒了你们的皮……"
 118,"TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_152","库啵啵啵啵啵啵！！"
 119,"TEXT_JOBDRK580_02063_HEALERMOOGLE02063_000_153","壮、壮士手下留情库啵！
@@ -228,7 +228,7 @@ int32,str,str
 126,"TEXT_JOBDRK580_02063_BUFFERMOOGLE02063_000_160","<Emphasis>你所寻找的 强者之心
 莫古称之为 爱 库啵！</Emphasis>"
 127,"TEXT_JOBDRK580_02063_MOGGIE_000_161","你真是太迟钝了库啵。
-不给你掰碎了解释清，你就不明白吗库啵？"
+不给你掰碎了解释清楚，你就不明白吗库啵？"
 128,"TEXT_JOBDRK580_02063_SIDURGU_000_162","莉艾勒！
 你没事吧！"
 129,"TEXT_JOBDRK580_02063_MOGGIE_000_163","到了感人肺腑的再会时刻了库啵，
@@ -304,7 +304,7 @@ int32,str,str
 开玩笑不要太过分！"
 163,"TEXT_JOBDRK580_02063_QIB_001_SNIPER_MOOGLE_BATTLETALK_03","交换！
 这次就由莫古来当你的对手库啵！"
-164,"TEXT_JOBDRK580_02063_QIB_001_SIDURGU_BATTLETALK_05","都是从哪儿冒出来的？！
+164,"TEXT_JOBDRK580_02063_QIB_001_SIDURGU_BATTLETALK_05","都是从哪冒出来的？！
 可恶……赶快把莉艾勒交出来！"
 165,"TEXT_JOBDRK580_02063_QIB_001_NUKER_MOOGLE_BATTLETALK_04","你什么都不明白库啵。
 就凭你这样，莉艾勒永远都不会回来的库啵！"

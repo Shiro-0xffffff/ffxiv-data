@@ -89,7 +89,7 @@ int32,str,str
 60,"TEXT_CLSWVR700_02435_KOTOCHOU_000_015","（★未使用／削除予定★）"
 61,"TEXT_CLSWVR700_02435_KOTOCYO_000_015","（★未使用／削除予定★）"
 62,"TEXT_CLSWVR700_02435_KOTOCHO_000_015","这种心情很对不起为我着想的少东家，
-因此我拒绝了他送给我的贺礼。不，不止是对少东家……
+因此我拒绝了他送给我的贺礼。不，不只对少东家……
 对其他客人，对花街来说，我的想法都很失礼。"
 63,"TEXT_CLSWVR700_02435_KOTOCHO_000_016","<Highlight>ObjectParameter(1)</Highlight>，今天能请你先回去吗？
 我想一个人想想今后的事，
@@ -206,7 +206,7 @@ int32,str,str
 然后无牵无挂地送姐姐离开！"
 110,"TEXT_CLSWVR700_02435_KEIMEI_000_068","呵呵呵，你的目光又变成当初吸引我的那种了。
 你就用最美的舞去祝福琴鹤的隐退吧！"
-111,"TEXT_CLSWVR700_02435_KOTOCHO_000_069","少东家，<Highlight>ObjectParameter(1)</Highlight>，太感谢你们了！！！
+111,"TEXT_CLSWVR700_02435_KOTOCHO_000_069","少东家，<Highlight>ObjectParameter(1)</Highlight>，太感谢你们了！！
 那我现在就去努力练习。"
 112,"TEXT_CLSWVR700_02435_KEIMEI_000_070","那么<Highlight>ObjectParameter(1)</Highlight>，
 就拜托你制作<Sheet(ItemHQ,17924,0)/>了。
@@ -236,7 +236,7 @@ int32,str,str
 也很期待你做出来的东方服装哦。"
 122,"TEXT_CLSWVR700_02435_YAGIRI_000_089","终于做好了啊！
 那就快点交给翘首以盼的少东家吧。
-啊啊，我也想快点看到天女的羽衣……"
+啊，我也想快点看到天女的羽衣……"
 123,"TEXT_CLSWVR700_02435_KEIMEI_000_090","纯白的<Sheet(ItemHQ,17924,0)/>
 对<Highlight>ObjectParameter(1)</Highlight>来说也是一种挑战，
 我很期待看到成品。"

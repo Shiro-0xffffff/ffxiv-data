@@ -1,6 +1,10 @@
 ﻿key,0
-#,
-int32,uint32
+#,UIData
+int32,McGuffinUIData
 0,0
 1,1
-2,0
+2,3
+3,2
+4,4
+5,5
+6,0

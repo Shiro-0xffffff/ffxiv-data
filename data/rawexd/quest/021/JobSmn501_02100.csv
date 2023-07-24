@@ -54,7 +54,7 @@ int32,str,str
 45,"TEXT_JOBSMN501_02100_TODO_21",""
 46,"TEXT_JOBSMN501_02100_TODO_22",""
 47,"TEXT_JOBSMN501_02100_TODO_23",""
-48,"TEXT_JOBSMN501_02100_YMHITRA_000_000","你来的正是时候呢，<Highlight>ObjectParameter(1)</Highlight>。
+48,"TEXT_JOBSMN501_02100_YMHITRA_000_000","你来得正是时候呢，<Highlight>ObjectParameter(1)</Highlight>。
 有个地方希望你陪我去一趟。"
 49,"TEXT_JOBSMN501_02100_YMHITRA_000_001","我把至今为止关于召唤魔法的研究结果
 通过圣寇伊纳克财团发表了以后，获得了巨大反响！
@@ -72,7 +72,7 @@ int32,str,str
 日复一日地调查古代亚拉戈文明遗产。
 "
 54,"TEXT_JOBSMN501_02100_RAMMBROES_000_015","哟，你来了！
-托你的福，调查进行的非常顺利。"
+托你的福，调查进行得非常顺利。"
 55,"TEXT_JOBSMN501_02100_RAMMBROES_000_020","和雅·蜜特拉一起过来，
 是为了拿关于召唤师的资料吧？"
 56,"TEXT_JOBSMN501_02100_YMHITRA_000_021","是啊，听说有一些资料想交给我们分析。"

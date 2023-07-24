@@ -54,7 +54,7 @@ int32,str,str
 有事想要请你帮忙。"
 49,"TEXT_HEAVNZ604_01872_TEMPLEKNIGHTA01872_000_001","如果可以的话，请你来一趟神殿骑士团总部，
 昂德卢大人会亲自向你解释。"
-50,"TEXT_HEAVNZ604_01872_TEMPLEKNIGHTA01872_000_005","请务必将你的力量借助于我们神殿骑士团……
+50,"TEXT_HEAVNZ604_01872_TEMPLEKNIGHTA01872_000_005","请务必将你的力量借给我们神殿骑士团……
 拜托了！"
 51,"TEXT_HEAVNZ604_01872_MAENNE_100_006","翻云雾海啊。
 到底是什么样的地方呢？"
@@ -68,7 +68,7 @@ int32,str,str
 拜托了！"
 55,"TEXT_HEAVNZ604_01872_HANDELOUP_000_028","这次作战的指挥官是玛艾娜。
 务必将你的力量借给我们。"
-56,"TEXT_HEAVNZ604_01872_MAENNE_000_020","哦呀，你就是传闻中的<Highlight>ObjectParameter(1)</Highlight>吗！
+56,"TEXT_HEAVNZ604_01872_MAENNE_000_020","呀，你就是传闻中的<Highlight>ObjectParameter(1)</Highlight>吗！
 我是这次作战的指挥官，龙骑士玛艾娜。
 你是来帮我们的吗？"
 57,"TEXT_HEAVNZ604_01872_MAENNE_000_021","有击退邪龙尼德霍格的你来帮忙，放心多了。

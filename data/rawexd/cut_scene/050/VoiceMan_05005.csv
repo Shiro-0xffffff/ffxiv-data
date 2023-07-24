@@ -6,9 +6,9 @@ int32,str,str
 1,"TEXT_VOICEMAN_05005_000020_WARRIOROFDARKNESS","所以你才更加痛苦，
 因为造成现状的元凶就是你自己。"
 2,"TEXT_VOICEMAN_05005_Q1_000_001_NONE_VOICE","要说什么？"
-3,"TEXT_VOICEMAN_05005_A1_000_001_NONE_VOICE","让他们知道真相只会带来反效果。"
+3,"TEXT_VOICEMAN_05005_A1_000_001_NONE_VOICE","让他们知道真相只会带来反效果"
 4,"TEXT_VOICEMAN_05005_A1_000_002_NONE_VOICE","我现在也不敢相信这一切都是我造成的……"
-5,"TEXT_VOICEMAN_05005_A1_000_003_NONE_VOICE","真是一团糟。"
+5,"TEXT_VOICEMAN_05005_A1_000_003_NONE_VOICE","真是一团糟"
 6,"TEXT_VOICEMAN_05005_000030_WARRIOROFDARKNESS","是啊……
 知晓真相只会让他们更加痛苦，
 如果能难得糊涂那便是最好……"
@@ -38,7 +38,7 @@ int32,str,str
 17,"TEXT_VOICEMAN_05005_000140_WARRIOROFDARKNESS","在珂露西亚岛看到那个巨大的塔罗斯启动时，我由衷地想，
 太好了……这样才是对的……"
 18,"TEXT_VOICEMAN_05005_000150_WARRIOROFDARKNESS","我们直到最后都认为，战斗应该由我们来承担，
-……并认为这样是为了这个世界的所有人。"
+并认为这样是为了这个世界的所有人……"
 19,"TEXT_VOICEMAN_05005_000160_WARRIOROFDARKNESS","所以我们从未见过大家团结一心开辟道路的样子。"
 20,"TEXT_VOICEMAN_05005_000170_WARRIOROFDARKNESS","那光景太耀眼了……
 我只感到心头一热，说不出任何话语。"
@@ -334,7 +334,7 @@ int32,str,str
 177,"TEXT_VOICEMAN_05005_001610_BISMARCK","呼……"
 178,"TEXT_VOICEMAN_05005_001620_BISMARCK","(-俾斯麦的声音-)<Emphasis>“世界已步入黄昏，走向灭亡。我只想在此沉睡。”</Emphasis>"
 179,"TEXT_VOICEMAN_05005_001630_ALISAIE","虽然听不懂……
-但感觉谈的并不顺利啊……"
+但感觉谈得并不顺利啊……"
 180,"TEXT_VOICEMAN_05005_Q5_000_001_NONE_VOICE","要说什么？"
 181,"TEXT_VOICEMAN_05005_A5_000_001_NONE_VOICE","对了！"
 182,"TEXT_VOICEMAN_05005_A5_000_002_NONE_VOICE","菲奥！"
@@ -895,7 +895,7 @@ int32,str,str
 他们认为不应再将生命献给佐迪亚克，
 应该将全新的世界交给新生的生命自己掌管。<UIForeground>01</UIForeground>"
 532,"TEXT_VOICEMAN_05005_004900_HYTHLODAEUS","<UIForeground>F20223</UIForeground>于是他们就用自己的生命创造出了与佐迪亚克相对的海德林。
-人类第一次化分成两个阵营，并且展开了战争……
+人类第一次划分成两个阵营，并且展开了战争……
 你知道结局是什么吗？<UIForeground>01</UIForeground>"
 533,"TEXT_VOICEMAN_05005_004910_HYTHLODAEUS","<UIForeground>F20223</UIForeground>……这样啊。<UIForeground>01</UIForeground>"
 534,"TEXT_VOICEMAN_05005_004920_HYTHLODAEUS","<UIForeground>F20223</UIForeground>爱梅特赛尔克他们，还以佐迪亚克之名行动呢吧。<UIForeground>01</UIForeground>"

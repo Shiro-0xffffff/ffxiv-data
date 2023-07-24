@@ -17,9 +17,9 @@ int32,str,str
 12,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_100","杰诺米年纪轻轻就设立了剧团，并且其才能得到了大家的认可，
 在短短时间内就成为了戏剧界备受瞩目的希望之星。
 由他创作的戏剧剧本有多篇在文坛获奖。"
-13,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_101","他发表了众多的戏剧，自己亲自导演的作品更是火爆至极。
+13,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_101","他发表了许多戏剧，导演的作品更是火爆至极。
 有人说他的剧团是最一票难求的剧团。
-事实上，连一年后的票都全部被预售出去的情况也很常见。"
+事实上，连一年后的票都预售光的情况也很常见。"
 14,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_102","前任皇帝索鲁斯·佐斯·加尔乌斯也认可了他的才能，
 甚至专门建造了这艘剧场艇，并将其作为礼物送给了他。
 可惜现任的皇帝却并不怎么欣赏他。"
@@ -36,7 +36,7 @@ int32,str,str
 再到载歌载舞充满刺激的音乐剧，他们的演出非常丰富多彩。"
 19,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_122","黄道勇士传奇正在公演的时候，
 有超过100名演员和幕后工作人员生活在这艘剧场艇当中。
-现在却成了这幅摸样。"
+现在却成了这幅模样。"
 20,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_140","那是在加雷马人当中就连孩子们都知道的类似于童话的传说。
 说的是很久以前，在一个被称为伊瓦利斯的
 不知道是世界还是国家的地方。"
@@ -70,7 +70,7 @@ int32,str,str
 31,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_161","其实杰诺米是第一次以这个传说为原型创作戏剧。
 虽然以前听他说过几次想改编这一故事，
 却没想到他创作出的会是音乐剧。"
-32,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_162","不止是作词，里面的曲子也是杰诺米亲自完成，
+32,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_162","除了作词，曲子也是杰诺米亲自完成，
 所谓的天才正是用来形容他这样的人的吧。"
 33,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_163","这部戏剧全篇共有5幕，前面3幕描绘了在教会的命令下
 暗中活动的迪利塔，由于与奥薇莉亚的邂逅而改过自新，
@@ -116,7 +116,7 @@ int32,str,str
 47,"TEXT_REGHIN3WANDERINGWRITER_00435_Q2_000_000","想了解什么？"
 48,"TEXT_REGHIN3WANDERINGWRITER_00435_A2_000_000","关于占领达尔马斯卡"
 49,"TEXT_REGHIN3WANDERINGWRITER_00435_A2_000_001","关于达尔马斯卡起义"
-50,"TEXT_REGHIN3WANDERINGWRITER_00435_A2_000_002","关于烟肉麦穗面包"
+50,"TEXT_REGHIN3WANDERINGWRITER_00435_A2_000_002",""
 51,"TEXT_REGHIN3WANDERINGWRITER_00435_A2_000_0010","取消"
 52,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_300","加雷马帝国进攻达尔马斯卡王国并将其纳为行省
 已经是30年前的事了。
@@ -150,12 +150,8 @@ int32,str,str
 62,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_325","还有就是，听说率领起义军的人自称雅雪公主，
 是个十多岁的姑娘。不过雅雪公主已经在那尔比纳城塞战死了，
 起义军的这个多半只是假冒？"
-63,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_340","我倒不是特别喜欢烟肉麦穗面包啦……
-不过，我曾经自己制作烟肉，结果意外的非常好吃。
-自那以后我试做了各种烟肉菜肴，最满意的就是烟肉麦穗面包了。"
-64,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_341","我真的没那么喜欢它啦，当然也没有觉得多么讨厌就是了，
-差不多就是说到下酒就会想起它的那种程度吧……
-比方说你也并不是因为喜欢找东西才去帮助别人的，不是吗？"
+63,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_340",""
+64,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_341",""
 65,"TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_500","肉身……不过是灵魂的容器……
 不过是灵魂这一暴君的……傀儡而已……
 但如果……肉身得到了永恒……"

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6
-#,,,Image,,,,
+#,Type,IconType,Image,TextType,Text[0],Text[1],Text[2]
 int32,byte,byte,Image,byte,str,str,str
 0,0,0,0,0,"","",""
 1,0,0,150011,0,"","",""
@@ -264,21 +264,10 @@ int32,byte,byte,Image,byte,str,str,str
 92,0,0,0,0,"","",""
 93,0,0,0,0,"","",""
 94,0,0,0,0,"","",""
-95,1,0,150411,0,"
-在技能菜单中有一个分类叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。在这个分类中可以查看当前其他大地使者或能工巧匠职业已经学会的技能中，有哪些是现在的职业可以使用的。
-
-通过快捷指令<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分类中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮可以打开技能菜单窗口。","",""
-96,1,0,150412,0,"额外技能的装备数量受到角色当前职业等级的限制。随着等级的提升，可装备数量也会增加。
-
-一开始只能够装备一个，10级之后每<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提升5级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会增加一个，最多可增加到十个。
-
-在菜单中勾选相应的技能之后，该技能便可以作为额外技能设置到热键栏中。","",""
-97,1,0,150413,0,"选中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会在技能菜单的下面显示出来。
-
-将技能对应的图标<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖拽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到热键栏上之后就可以随时使用了。","",""
-98,1,0,150414,0,"选中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>之后会进入到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的模式。
-
-此时按下对应的按键可以将技能设置到对应的位置上，与发动技能时的操作基本相同。","",""
+95,0,0,0,0,"","",""
+96,0,0,0,0,"","",""
+97,0,0,0,0,"","",""
+98,0,0,0,0,"","",""
 99,0,0,0,0,"","",""
 100,0,0,0,0,"","",""
 101,0,0,0,0,"","",""
@@ -344,7 +333,8 @@ int32,byte,byte,Image,byte,str,str,str
 127,0,0,0,0,"","",""
 128,0,0,0,0,"","",""
 129,0,0,0,0,"","",""
-130,1,0,150891,0,"完成某些特定的职业任务，可以获得相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>职业专用技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+130,1,0,150891,0,"
+完成某些特定的职业任务，可以获得相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>职业专用技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 例如，完成枪术师<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>15级任务<UIGlow>01</UIGlow><UIForeground>01</UIForeground>之后，可以学会远程战技<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“贯穿尖”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
@@ -353,7 +343,8 @@ int32,byte,byte,Image,byte,str,str,str
 132,0,0,0,0,"","",""
 133,0,0,0,0,"","",""
 134,0,0,0,0,"","",""
-135,1,0,150201,0,"在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>商店<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以进行道具的买卖。
+135,1,0,150201,0,"
+在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>商店<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以进行道具的买卖。
 
 点击商店一侧的道具可以进行购买。
 
@@ -409,7 +400,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 因此，为了避免出现所持装备过多导致背包的容量紧张的情况发生，每名冒险者都会有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“兵装库”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来专门存放各种装备。","",""
 161,1,0,151142,0,"
-从商店购买商品装备，做任务获得报酬装备，从身上脱下装备，这些装备品都会直接存放到兵装库中，而不会对背包有丝毫影响。
+从商店购买商品装备，做任务获得报酬装备，从身上脱下装备，这些装备都会直接存放到兵装库中，而不会对背包有丝毫影响。
 
 所以当获得新装备想要查看一下详情时，请打开兵装库而不是背包进行查看。","",""
 162,1,0,151143,0,"
@@ -523,18 +514,20 @@ int32,byte,byte,Image,byte,str,str,str
 打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>玩家搜索条件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，可以设置搜索目标的各种条件。条件包括姓名、职业、等级、在线状态、所在地以及使用语言。
 
 选好之后点击<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开始搜索<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮，便会将结果显示出来。","",""
-212,1,0,150633,0,"玩家搜索功能可以查看各个玩家的个人信息。而自己的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行编辑。
+212,1,0,150633,0,"
+玩家搜索功能可以查看各个玩家的个人信息。而自己的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行编辑。
 
 通过快捷指令打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>项目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，之后用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>鼠标右键<UIGlow>01</UIGlow><UIForeground>01</UIForeground>点击自己的名字，之后选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编辑信息<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打开个人信息窗口进行编辑。","",""
 213,1,0,150634,0,"
-搜索情报中还可以编辑在线状态和个人签名。
+搜索情报中还可以编辑在线状态和个性签名。
 
 职业和等级虽然会按照当前的职业为准，不过也可以自行编辑<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>希望组队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时的职业，这样在他人搜索时同样也会作为目标对象显示在列表中。","",""
 214,1,0,150635,0,"
 在线状态为“希望组队”时可以选择多个职业作为搜索对象，单击一次为选中，再单击一次会取消选中状态。
 
 不过如果在线状态不是“希望组队”，即使选中了多个职业也不会起到任何作用，只会将自己当前的职业作为搜索对象。","",""
-215,1,0,150633,0,"玩家搜索功能可以查看各个玩家的个人信息。而自己的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行编辑。
+215,1,0,150633,0,"
+玩家搜索功能可以查看各个玩家的个人信息。而自己的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行编辑。
 
 通过快捷指令打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>项目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，之后选中自己的名字并在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>次级指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编辑信息<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打开个人信息窗口进行编辑。","",""
 216,1,0,150635,0,"
@@ -781,12 +774,17 @@ int32,byte,byte,Image,byte,str,str,str
 360,1,0,151151,0,"
 专属陆行鸟可以一起并肩作战了！
 
-令陆行鸟参加战斗是需要准备一定的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>基萨尔野菜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，这可是它们最喜欢的食物。","",""
+一起参加战斗的陆行鸟会逐渐成长。
+
+如果是跟与你有着相似实力的敌人进行战斗的话，
+陆行鸟或许能够更有效率地获得成长。","",""
 361,1,0,151152,0,"
+想让陆行鸟参加战斗时需要用到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>基萨尔野菜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，这是它们最喜欢的食物。
+
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>基萨尔野菜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以在商店中购买。在野外使用便可以召唤出陆行鸟一起战斗。
 
 冒险路上有伙伴相伴，旅途中一定会更加热闹！","",""
-362,0,0,0,0,"","",""
+362,1,0,0,0,"","",""
 363,0,0,0,0,"","",""
 364,0,0,0,0,"","",""
 365,0,0,0,0,"","",""
@@ -858,7 +856,8 @@ int32,byte,byte,Image,byte,str,str,str
 选中讨伐目标敌人之后，地图上的敌人头上就会自动出现记号。这样就能很轻易地找到它们。
 
 发现标有讨伐记号的敌人就尽快打倒它们吧。","",""
-403,1,0,150451,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>讨伐笔记<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+403,1,0,150451,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>讨伐笔记<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 专门为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>战斗精英<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔法导师<UIGlow>01</UIGlow><UIForeground>01</UIForeground>两类职业准备的内容。
 
@@ -1096,7 +1095,7 @@ int32,byte,byte,Image,byte,str,str,str
 540,1,0,150431,0,"
 完成理符任务的目标之后，回到任务发行人处报告即可领取报酬。
 
-领取报酬不只限于接受任务时的那位发行人，即使到了其他地区，看到其他的任务发行人也可以领取之前的报酬。","",""
+努力完成任务、领取报酬，然后接受新的理符任务吧！","",""
 541,0,0,0,0,"","",""
 542,0,0,0,0,"","",""
 543,0,0,0,0,"","",""
@@ -1122,7 +1121,8 @@ int32,byte,byte,Image,byte,str,str,str
 557,0,0,0,0,"","",""
 558,0,0,0,0,"","",""
 559,0,0,0,0,"","",""
-560,1,0,150671,0,"制作系理符任务的流程与佣兵任务有所不同。
+560,1,0,150671,0,"
+制作系理符任务的流程与佣兵任务有所不同。
 
 制作任务没有时间限制，将指定的目标道具交给委托人手中便可以完成。
 
@@ -1139,11 +1139,11 @@ int32,byte,byte,Image,byte,str,str,str
 570,1,0,150681,0,"
 与委托人交谈会打开交易窗口，将目标道具从背包<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖拽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到交易窗口里，或右键点击道具再选择“递交”，之后点击窗口中的“递交”按钮便可以完成任务。
 
-交纳优质道具还可以领取到额外的追加报酬。","",""
+能工巧匠在交纳优质道具后还可以领取到额外的追加报酬。","",""
 571,1,0,150682,0,"
 与委托人交谈会打开交易窗口，在背包中选中目标道具，之后点击窗口中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“递交”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮便可以完成任务。
 
-交纳优质道具还可以领取到额外的追加报酬。","",""
+能工巧匠在交纳优质道具后还可以领取到额外的追加报酬。","",""
 572,0,0,0,0,"","",""
 573,0,0,0,0,"","",""
 574,0,0,0,0,"","",""
@@ -1159,7 +1159,9 @@ int32,byte,byte,Image,byte,str,str,str
 581,1,0,150692,0,"
 捕鱼人接受采集系理符任务的流程与制作理符一样。
 
-首先和委托人对话，之后交纳任务指定的道具。交纳优质道具时还会得到额外的报酬。","",""
+可以通过日志的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地图<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮
+确认指定鱼类的栖息地域。
+首先和委托人对话，之后交纳任务指定的道具。","",""
 582,0,0,0,0,"","",""
 583,0,0,0,0,"","",""
 584,0,0,0,0,"","",""
@@ -1175,6 +1177,8 @@ int32,byte,byte,Image,byte,str,str,str
 　·在指定地区的所有采集点进行采集。
 　·采集指定数量的目标道具。","",""
 591,1,0,150702,0,"
+按照要求的等级采集目标道具后
+可以获得高评价，随着评价提高会获得额外报酬。
 任务指定的采集地点会在名牌上显示出理符任务的图标。
 
 在导向地图中也会显示出目的地的方向。","",""
@@ -1219,7 +1223,8 @@ int32,byte,byte,Image,byte,str,str,str
 617,0,0,0,0,"","",""
 618,0,0,0,0,"","",""
 619,0,0,0,0,"","",""
-620,1,0,150661,0,"危命任务结束后，根据结果可以得到相应的报酬。
+620,1,0,150661,0,"
+危命任务结束后，根据结果可以得到相应的报酬。
 
 依据任务成功与否及玩家的贡献度情况，所获取的报酬也会有所不同。
 
@@ -1495,7 +1500,7 @@ int32,byte,byte,Image,byte,str,str,str
 801,1,0,150472,0,"
 身处任何一座城市中都可以在市场出售物品，所有国家的市场是互通的，在任何地方都能够买到所有正在出售的道具。
 
-不过购买在别国出售的道具时需要缴纳一定的手续费。","",""
+购买道具时需要缴纳5%的手续费。","",""
 802,1,0,150473,0,"
 另外，对道具还没有掌握足够知识的玩家也没有必要一定要在市场中购买物品。
 
@@ -1511,12 +1516,14 @@ int32,byte,byte,Image,byte,str,str,str
 在市场购买物品时，首先要指定想要买的物品。
 
 进行查找时既可以直接输入物品名，也可以通过种类和条件进行查找。","",""
-811,1,0,150482,0,"通过输入物品名查找
+811,1,0,150482,0,"
+通过输入物品名查找
 
 在搜索框内直接输入关键字，之后点下搜索按钮，会在右侧显示出搜索结果。
 
 例如在搜索框里输入“野猪”之后点击搜索按钮，右侧便会出现名字里含有“野猪”的相关道具。","",""
-812,1,0,150483,0,"通过道具的种类和条件查找
+812,1,0,150483,0,"
+通过道具的种类和条件查找
 
 如果想要列出某个种类下的全部道具，可以点击左侧的各个分类按钮来查找。
 
@@ -1534,7 +1541,7 @@ int32,byte,byte,Image,byte,str,str,str
 820,1,0,150491,0,"
 在列表中选中道具名之后，会在新窗口中以价格顺序列出当前出售的情况。","",""
 821,1,0,150492,0,"
-选中商品即可当场购买。不过购买在别国出售的物品时需要缴纳一定的手续费。","",""
+选中商品即可当场购买。不过购买时需要缴纳5%的手续费。","",""
 822,0,0,0,0,"","",""
 823,0,0,0,0,"","",""
 824,0,0,0,0,"","",""
@@ -1593,7 +1600,11 @@ int32,byte,byte,Image,byte,str,str,str
 呼唤出雇员之后，可以将自己背包里的道具及金币寄存在雇员身上。寄存的道具还可以拿到市场出售。
 同时还可以向雇员下达探险的委托。","",""
 861,1,0,150532,0,"
-将道具从自己的物品栏中移动到雇员的物品栏中，便可以将物品交给雇员寄存。","",""
+将道具从自己的物品栏中移动到雇员的物品栏中，便可以将物品交给雇员寄存。
+
+选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>同类道具合并递交<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，
+将从玩家背包中搜索已经寄存在雇员处且能够叠加的道具，
+一并交给雇员进行保管。","",""
 862,0,0,0,0,"","",""
 863,0,0,0,0,"","",""
 864,0,0,0,0,"","",""
@@ -1605,7 +1616,7 @@ int32,byte,byte,Image,byte,str,str,str
 870,1,0,150541,0,"
 有些良材与草场的所在地会有一些特殊的性质。
 
-这些特殊性质在玩家满足特定条件时会造成额外的加成效果，令获得率、优质获得率、次数以及数量有所提升。","",""
+这些特殊性质在玩家满足特定条件时会造成额外的加成效果，令获得率、额外采集奖励发生率、次数/耐久以及获得数量有所提升。","",""
 871,1,0,150542,0,"
 要发现采集地点的特殊性质需要学会职业的特性。
 
@@ -1709,7 +1720,8 @@ int32,byte,byte,Image,byte,str,str,str
 周围没有怪物时就没有必要继续维持这个状态了。
 
 在潜行状态下再次发动技能可以解除隐身的效果。","",""
-922,1,0,150263,0,"在被怪物攻击时无法发动潜行技能。
+922,1,0,150263,0,"
+在被怪物攻击时无法发动潜行技能。
 
 此外，对于比自己等级高出过多的强大怪物，
 即使处在潜行状态中也会被发现。","",""
@@ -1778,8 +1790,17 @@ int32,byte,byte,Image,byte,str,str,str
 
 颜色完全由染剂的颜色决定，只要染剂有保证，那么同一个物品无论多少次都可以不断反复染色。","",""
 952,1,0,151003,0,"
-为家具染色时也是一样，既可以在背包中打开道具菜单选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“染色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>指令，也可以在房屋菜单中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“染色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>指令。","",""
-953,0,0,0,0,"","",""
+此外，在完成特定任务之前，
+部分道具无法进行染色。
+
+可以通过染色窗口确认染色条件，
+完成相应的任务就可以进行染色了。","",""
+953,1,0,151004,0,"
+想要为家具染色时，
+可以在背包中打开道具的次级指令选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“染色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+也可以在房屋菜单中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“染色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+为家居染上自己喜欢的颜色，试着搭配出时尚的房屋吧！","",""
 954,0,0,0,0,"","",""
 955,0,0,0,0,"","",""
 956,0,0,0,0,"","",""
@@ -1787,16 +1808,15 @@ int32,byte,byte,Image,byte,str,str,str
 958,0,0,0,0,"","",""
 959,0,0,0,0,"","",""
 960,1,0,151021,0,"
-装备可以转化成魔晶石了！
+可以利用装备精制魔晶石了！
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔晶石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是由装备转化而成的道具，可以用来对装备进行强化。","",""
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔晶石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是从装备上精制而成的道具，可以用来对装备进行强化。","",""
 961,1,0,151022,0,"
 装备在使用过程中会不断地积累<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>精炼度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-当精炼度到达100%时，装备便可以进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔晶石化<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+当精炼度到达100%时，便可以用装备<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>精制魔晶石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+获得新的魔晶石之后，装备的精炼度会变回1%。","",""
 962,1,0,151023,0,"
-魔晶石化之后原本的装备会消失。
-
 要将魔晶石镶嵌到装备上，需要成为工匠掌握一种特殊的技术，或者是委托各城邦的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔晶石师傅”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 已镶嵌的魔晶石可以通过装备次级指令中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收魔晶石”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将魔晶石摘除回收。","",""
@@ -1847,7 +1867,8 @@ int32,byte,byte,Image,byte,str,str,str
 不过，镶嵌魔晶石需要习得特别的技术，并达到装备所需<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“镶嵌魔晶石等级”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的要求。","",""
 991,1,0,151322,0,"
 自己无法镶嵌魔晶石的时候，可以委托各城邦的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔晶石师傅”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行镶嵌，也可以到市场中找找有没有已经镶嵌好魔晶石的装备出售。","",""
-992,1,0,151323,0,"另外，也可以找其他的玩家帮忙镶嵌魔晶石。
+992,1,0,151323,0,"
+另外，也可以找其他的玩家帮忙镶嵌魔晶石。
 
 找到帮手之后，选中该玩家再选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔晶石镶嵌委托”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以发送申请。对方的作业顺利的话很快就会完成镶嵌。
 进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“禁忌镶嵌”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的委托时，由于存在失败的风险，一定要双方事先充分交流后再开始作业。","",""
@@ -1984,11 +2005,11 @@ int32,byte,byte,Image,byte,str,str,str
 1070,1,0,151271,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“以小钓大”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是指以钓上来的鱼为诱饵，进一步钓上更大的鱼。
 
-钓上来的鱼如果体长达到“优质”标准，并且适合作为其他大鱼的鱼饵，则可以直接尝试以小钓大的钓法。","",""
+钓上来的鱼如果体长达到“大尺寸”标准，并且适合作为其他大鱼的鱼饵，则可以直接尝试以小钓大的钓法。","",""
 1071,1,0,151272,0,"
 有些大鱼只能通过以小钓大这种方法才能钓到。
 
-提高“鉴别力”对钓上大鱼很有帮助，努力尝试收集稀有的鱼吧！","",""
+提高“鉴别力”对钓上大尺寸的鱼很有帮助，努力尝试收集稀有的鱼吧！","",""
 1072,0,0,0,0,"","",""
 1073,0,0,0,0,"","",""
 1074,0,0,0,0,"","",""
@@ -2014,9 +2035,11 @@ int32,byte,byte,Image,byte,str,str,str
 1088,0,0,0,0,"","",""
 1089,0,0,0,0,"","",""
 1090,1,0,151291,0,"
-通过搭配装备提高<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“鉴别力”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以更轻易地钓上更大尺寸的鱼。
+提高<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>鉴别力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以更容易钓上尺寸大的鱼。
 
-鱼的体长超过一定长度之后，便会被判定为“优质”属性。所以尽量向更大的目标努力吧！","",""
+超过一定尺寸的鱼会被判定为“大尺寸”。
+
+搭配装备提高鉴别力，试着钓上更大尺寸的鱼吧！","",""
 1091,0,0,0,0,"","",""
 1092,0,0,0,0,"","",""
 1093,0,0,0,0,"","",""
@@ -2099,11 +2122,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 升到一定的等级，踏遍一个地区的地图，完成特定的行动等等，都会得到相应的表彰。","",""
 1151,1,0,151492,0,"
-在解锁某些成就后会得到相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>装备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>称号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+部分成就在达成后可以获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>称号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等奖励。
 
-达成成就条件的路上并不是一路畅通的，还会有很多艰难险阻，不过不要气馁，努力去挑战吧！
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※报酬道具可以找位于格里达尼亚旧街的乔纳森领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+虽然达成成就的路上有很多艰难险阻，不过不要气馁，努力去挑战吧！","",""
 1152,0,0,0,0,"","",""
 1153,0,0,0,0,"","",""
 1154,0,0,0,0,"","",""
@@ -2234,28 +2255,28 @@ int32,byte,byte,Image,byte,str,str,str
 1228,0,0,0,0,"","",""
 1229,0,0,0,0,"","",""
 1230,1,0,151421,0,"
-格斗家有着一套特殊的战斗系统，玩家可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“身形”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“疾风迅雷”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来获得特殊的效果。
+格斗家有着一套特殊的战斗系统，玩家可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“身形”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来获得特殊的效果。
 
-三种身形通过各种战技来进行转换，既有提高伤害的效果，也会有增加攻击速度的效果。","",""
-1231,1,0,151422,0,"发动战技便会转化为特定的身形，另外一部分战技只有在特定的身形下才能够发动，格斗家就是通过不断变换身形来进行战斗的。
+三种身形通过各种战技来进行转换，可以释放出连续攻击。","",""
+1231,1,0,151422,0,"
+发动战技便会转化为特定的身形，另外一部分战技只有在特定的身形下才能够发动，格斗家就是通过不断变换身形来进行战斗的。
 
 现在的身形一共有以下三种：
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔猿身形”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“盗龙身形”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“猛豹身形”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-1232,1,0,151423,0,"格斗家基本是凭借以下的战法进行战斗：
+1232,1,0,151423,0,"
+格斗家基本是凭借以下的战法进行战斗：
 
 “魔猿身形”战技
 　⇒“盗龙身形”战技
 　　⇒“猛豹身形”战技
 
-完成一个循环之后还会获得提高攻击力与增加攻击速度的特殊状态——<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“疾风迅雷”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+在此循环中会获得战技威力上升或特定的追加效果。","",""
 1233,1,0,151424,0,"
-随着玩家的等级上升，疾风迅雷的等级也会提高。
-
-通过不断地转换身形，会令疾风迅雷发挥出更加强力的效果。
-
-排山倒海一般的不间断连续攻击，就是一名格斗家所要掌握的意识！","",""
+根据不同情况使用不同的战技，
+如行云流水般对敌人进行连绵不绝地打击，
+正是一名格斗家所要掌握的本领！","",""
 1234,0,0,0,0,"","",""
 1235,0,0,0,0,"","",""
 1236,0,0,0,0,"","",""
@@ -2271,7 +2292,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 通过特殊热键栏中的指令可以对召唤兽下达各种命令。","",""
 1242,1,0,151433,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“截击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命令可以令召唤兽与召唤者共同战斗，在攻击敌人或被敌人攻击之后会立刻进入战斗状态。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“截击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命令可以令召唤兽与召唤者共同战斗，在攻击敌人或被敌人攻击之后会自动做出行动。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“等待指示”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会令召唤兽在召唤者手动下达具体命令之前不会采取任何行动。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>则会收回已经召唤出的召唤兽。","",""
 1243,0,0,0,0,"","",""
@@ -2286,9 +2307,11 @@ int32,byte,byte,Image,byte,str,str,str
 1248,0,0,0,0,"","",""
 1249,0,0,0,0,"","",""
 1250,1,0,151211,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“狼狱水上竞技场”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放！
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“水晶冲突”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放！
 
-这座竞技场是三城邦同盟为了加强战斗力而设置的，冒险者们可以在这里进行对抗战。前往水上竞技场可以在接待处获得更多情报。","",""
+水晶冲突是艾欧泽亚城邦军事同盟以强化自身战力为目的举办的冒险者对抗战。
+
+前往狼狱停船场可以在古恩吉·佐尔恩吉处获得更多情报。","",""
 1251,0,0,0,0,"","",""
 1252,0,0,0,0,"","",""
 1253,0,0,0,0,"","",""
@@ -2354,7 +2377,8 @@ int32,byte,byte,Image,byte,str,str,str
 1287,0,0,0,0,"","",""
 1288,0,0,0,0,"","",""
 1289,0,0,0,0,"","",""
-1290,1,0,151471,0,"这个任务中需要对特定<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地点范围<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用任务道具。
+1290,1,0,151471,0,"
+这个任务中需要对特定<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地点范围<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用任务道具。
 
 点击<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>边上的道具图标后，屏幕中会出现使用道具的目标范围。
 
@@ -2421,15 +2445,15 @@ int32,byte,byte,Image,byte,str,str,str
 1328,0,0,0,0,"","",""
 1329,0,0,0,0,"","",""
 1330,1,0,151531,0,"
-在玩家对战中，参加战斗的玩家可以获得相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“对战经验值”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+在玩家对战中，参加战斗的玩家可以获得以下3种报酬。
 
-积累对战经验值可以提升<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“对战等级”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
-
-对战等级得到提升后，可以获得所属大国防联军的成就。","",""
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>对战经验值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狼印战绩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>系列赛经验值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1331,1,0,151532,0,"
-另外，参加玩家对战可以获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狼印战绩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+另外，参加玩家对战还可以获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>系列赛报酬<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以及<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>战利水晶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等任务外奖励。
 
-可以使用狼印战绩和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狼狱停船场<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的士兵们<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>换取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>各种各样的道具。","",""
+前往狼狱停船场可以在贝尔克雅正漩尉处获得更多情报。","",""
 1332,1,0,151533,0,"
 有关玩家对战的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“对战资料”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行查看。
 
@@ -2485,9 +2509,10 @@ int32,byte,byte,Image,byte,str,str,str
 在冒险者住宅区的所有土地面前都设立有一块<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>门牌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 上面记有土地所有者的情况。","",""
-1361,1,0,151562,0,"如果没有显示土地所有者的情报，而是显示的土地标价，则说明这块土地还没有人购买，可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“土地竞拍”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>尝试购买土地。
+1361,1,0,151562,0,"
+如果没有显示土地所有者的情报，而是显示的土地标价，则说明这块土地还没有人购买，可以尝试购买土地。
 
-具体的出价方法和规则可以到各个冒险者住宅区的管理人那里听取详细说明。土地的价格每经过6小时会有一次下调，根据自己手中的钱看好机会就出手吧。","",""
+购买土地共分为“先到先得”和“抽选购买”的两种形式。具体的购买方法和规则可以到各个冒险者住宅区的管理人那里听取详细说明。","",""
 1362,0,0,0,0,"","",""
 1363,0,0,0,0,"","",""
 1364,0,0,0,0,"","",""
@@ -2614,15 +2639,15 @@ int32,byte,byte,Image,byte,str,str,str
 1438,0,0,0,0,"","",""
 1439,0,0,0,0,"","",""
 1440,1,0,151641,0,"
-蛮族任务是指从生活在各地的蛮族手中接受的各种任务，每天的任务都有所不同。完成任务之后会提高与蛮族的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“友好度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+友好部族任务是指从生活在各地的友好部族手中接受的各种任务，每天的任务都有所不同。完成任务之后会提高与友好部族的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“友好度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 关系变得亲密之后会提高相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“友好关系等级”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1441,1,0,151642,0,"
-每天能够接受12个蛮族任务。一天过后可以接受的任务会有所更换，不过前一天的任务没有完成时无法接受新的任务。","",""
+每天能够接受12个友好部族任务。一天过后可以接受的任务会有所更换，不过前一天的任务没有完成时无法接受新的任务。","",""
 1442,1,0,151643,0,"
-与各个蛮族的友好度及友好关系等级可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“角色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“评价”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一栏中查看。
+与各个友好部族的友好度及友好关系等级可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“角色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“评价”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一栏中查看。
 
-友好关系等级越高，对蛮族的生活和习性也会了解得更多。","",""
+友好关系等级越高，对友好部族的生活和习性也会了解得更多。","",""
 1443,0,0,0,0,"","",""
 1444,0,0,0,0,"","",""
 1445,0,0,0,0,"","",""
@@ -2631,11 +2656,11 @@ int32,byte,byte,Image,byte,str,str,str
 1448,0,0,0,0,"","",""
 1449,0,0,0,0,"","",""
 1450,1,0,151651,0,"
-完成蛮族任务可以提高发行任务的蛮族的友好度。
+完成友好部族任务可以提高发行任务的友好部族的友好度。
 
-友好度提升到一定程度之后会提升蛮族的友好关系等级，友好关系等级提高之后可以接受一些特殊的任务。","",""
+友好度提升到一定程度之后会提升友好部族的友好关系等级，友好关系等级提高之后可以接受一些特殊的任务。","",""
 1451,1,0,151652,0,"
-提升蛮族的友好关系等级之后可以在蛮族的专用商店购买一些蛮族相关的道具。","",""
+提升友好部族的友好关系等级之后可以在友好部族的专用商店购买一些友好部族相关的道具。","",""
 1452,1,0,151653,0,"
 友好关系等级越高，能够购买的道具种类也会越多。尽量提升等级去购买特殊的道具吧！","",""
 1453,0,0,0,0,"","",""
@@ -2805,7 +2830,8 @@ int32,byte,byte,Image,byte,str,str,str
 1547,0,0,0,0,"","",""
 1548,0,0,0,0,"","",""
 1549,0,0,0,0,"","",""
-1550,1,0,151751,0,"能工巧匠可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“秘籍”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>学会新的制作配方。
+1550,1,0,151751,0,"
+能工巧匠可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“秘籍”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>学会新的制作配方。
 
 每本秘籍中包含的配方数量不定，可能是一种配方，也可能是多种配方。
 
@@ -2822,13 +2848,13 @@ int32,byte,byte,Image,byte,str,str,str
 1560,1,0,151761,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能开放了！
 
-在装备品的指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以将该装备品的外型完全变成另一种形象。","",""
+在装备的指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以将该装备的外型完全变成另一种形象。","",""
 1561,1,0,151762,0,"
 在进行投影时需要一种叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“幻象棱晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的专用触媒。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※只有能够穿上的装备才可以进行投影。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※用于投影的装备必须与被投影装备的等级、职业、种族、性别相匹配。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1562,1,0,151763,0,"
-变幻外型之后的装备品无法拿到市场上出售，也无法交易给他人。<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同时，进行投影的装备均会自动附加绑定属性。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+变幻外型之后的装备无法拿到市场上出售，也无法交易给他人。<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同时，进行投影的装备均会自动附加绑定属性。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 通过武具投影功能，可以随时将喜欢的装备保留在自己身上，随时随地都能够保持最好的容姿！","",""
 1563,0,0,0,0,"","",""
@@ -2885,13 +2911,18 @@ int32,byte,byte,Image,byte,str,str,str
 1598,0,0,0,0,"","",""
 1599,0,0,0,0,"","",""
 1600,1,0,151801,0,"
-通过对雇员下达委托，可以使他们收集指定的道具，或者到野外自由进行探索，这就是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“雇员探险”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+通过对雇员下达委托，可以使他们收集指定的道具，或者到野外自由进行探索，这就是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“雇员探险”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+通过充实雇员的装备，
+可以提升雇员带回的道具种类以及数量。","",""
 1601,1,0,151802,0,"
 对雇员委托工作时，需要向他们支付相应的“探险币”。
 
-探险币可以利用军票从所属军队交换，也可以在执行理符任务或蛮族任务时获得。","",""
+探险币可以利用军票从所属军队交换，也可以在执行理符任务或友好部族任务时获得。","",""
 1602,1,0,151803,0,"
-另外，即使在接受委托外出探险的情况下，雇员还是会听从传唤铃的召唤，并且也可以继续在市场上出售道具。","",""
+另外，即使在接受委托外出探险的情况下，雇员还是会听从传唤铃的召唤，并且也可以继续在市场上出售道具。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※玩家可以中途取消雇员探险，但不会退还已支付的探险币。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1603,0,0,0,0,"","",""
 1604,0,0,0,0,"","",""
 1605,0,0,0,0,"","",""
@@ -3020,7 +3051,8 @@ int32,byte,byte,Image,byte,str,str,str
 1677,0,0,0,0,"","",""
 1678,0,0,0,0,"","",""
 1679,0,0,0,0,"","",""
-1680,1,0,151901,0,"法外战区<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“加尔提诺平原周边遗迹群”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放了！
+1680,1,0,151901,0,"
+法外战区<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“加尔提诺平原周边遗迹群”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放了！
 
 在这片地区中，三城邦的军队围绕所有权展开了激烈的斗争，甚至冒险者也被卷入了这场纷争之中，站在各自的立场上互相进行战斗。战场的具体情况可以在各国阵营中与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“航空兵”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行确认。","",""
 1681,0,0,0,0,"","",""
@@ -3033,7 +3065,7 @@ int32,byte,byte,Image,byte,str,str,str
 1688,0,0,0,0,"","",""
 1689,0,0,0,0,"","",""
 1690,1,0,151881,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“修理工”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>能够将装备品的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“耐久度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>修理到与全新装备一样的100%，不过如果由自己亲手修理装备，则可以令装备的“耐久度”超过100%，从而达到比全新装备更持久耐用的程度。","",""
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“修理工”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>能够将装备的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“耐久度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>修理到与全新装备一样的100%，不过如果由自己亲手修理装备，则可以令装备的“耐久度”超过100%，从而达到比全新装备更持久耐用的程度。","",""
 1691,1,0,151882,0,"
 在进行修理时，只要对应的修理职业满足等级条件，即使不更换职业也能够同时修理多种装备。
 
@@ -3046,12 +3078,14 @@ int32,byte,byte,Image,byte,str,str,str
 1697,0,0,0,0,"","",""
 1698,0,0,0,0,"","",""
 1699,0,0,0,0,"","",""
-1700,1,0,151891,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“探索笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中记录有世界各地的风景名胜。
+1700,1,0,151891,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“探索笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中记录有世界各地的风景名胜。
 
 在特定场所满足天气、时间或动作等条件，便可以发现笔记中所记载的准确景色。
 
 在笔记中出现的场景和条件等零散情报，都是米莉丝根据听到的传闻记录下来的，仔细分析传言或许能够找到一些捷径。","",""
-1701,1,0,151893,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“探索笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中记录有世界各地的风景名胜。
+1701,1,0,151893,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“探索笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中记录有世界各地的风景名胜。
 
 在特定场所满足天气、时间或动作等条件，便可以发现笔记中所记载的准确景色。
 
@@ -3123,7 +3157,7 @@ int32,byte,byte,Image,byte,str,str,str
 1748,0,0,0,0,"","",""
 1749,0,0,0,0,"","",""
 1750,1,0,151951,0,"
-现在可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“道具分解”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能将装备品等道具分解成各种各样的素材了。
+现在可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“道具分解”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能将装备等道具分解成各种各样的素材了。
 
 要使用这项技能首先需要将道具对应的职业升到30级以上，之后便可以在次级指令中选择“道具分解”这项指令。","",""
 1751,1,0,151952,0,"
@@ -3168,9 +3202,9 @@ int32,byte,byte,Image,byte,str,str,str
 1767,1,0,152801,0,"
 通过刺鱼捕捉特定的鱼类后，生态平衡会受到影响，从而出现一种名为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“鱼影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的特殊渔场。","",""
 1768,1,0,152802,0,"
-发动<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“海洋之相”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，会在“鱼影”出现时，自动表示在导向地图上。
+发动<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“海洋之相”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，会自动将“鱼影”出现的位置表示在导向地图上。
 
-潜入“鱼影”之中，采集珍贵的鱼类吧！","",""
+捕捉潜入在“鱼影”之中的珍贵鱼类吧！","",""
 1769,0,0,0,0,"","",""
 1770,1,0,152811,0,"
 可以使用快捷指令中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“重要物品”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了。
@@ -3193,7 +3227,7 @@ int32,byte,byte,Image,byte,str,str,str
 1778,0,0,0,0,"","",""
 1779,0,0,0,0,"","",""
 1780,1,0,151971,0,"
-只有在能工巧匠职业下才能够接受及完成鸟人族的蛮族任务。
+只有在能工巧匠职业下才能够接受及完成鸟人族的友好部族任务。
 
 在任务中需要装备“长风护手”，并在特定的状态下才能够进行制作。","",""
 1781,1,0,151972,0,"
@@ -3207,9 +3241,9 @@ int32,byte,byte,Image,byte,str,str,str
 1791,1,0,151982,0,"
 交纳任何物品都可以满足任务的要求，左侧的图标表示交纳物品时会获得经验值的职业，针对自己的需要交纳相应职业的物品，也是提升等级的一种好方法。","",""
 1792,1,0,151983,0,"
-与其他蛮族日常不同，放弃鸟人族的供应任务之后，在下一次日常更新之前无法再次接受。
+与其他友好部族日常不同，放弃鸟人族的供应任务之后，在下一次日常更新之前无法再次接受。
 
-另外，供应任务所指定的物品会在每天的<Time(1285081200)/><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点更新。过了时间就会更换指定物品了，一定要注意。","",""
+另外，供应任务所指定的物品会在每天的<ResetTime>01</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点更新。过了时间就会更换指定物品，一定要注意。","",""
 1800,1,0,151991,0,"
 在雇员达到50级之后，可以提高装备去探索更加珍贵的物品。
 
@@ -3418,9 +3452,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 确认好他们需要多少“收藏价值”的收藏品后，再去制作与采集收藏品吧！","",""
 1980,1,0,152171,0,"
-通过与风脉泉的共鸣，感知到了风向，可以在空中自由翱翔了。
+可以在空中自由翱翔了！
 
-在与风脉泉共鸣完毕的区域，骑乘飞行坐骑执行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳跃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，就可以在空中自由翱翔了。","",""
+骑乘坐骑执行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳跃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，就可以在空中自由翱翔了。","",""
 1981,1,0,152172,0,"
 飞行时的基本操作为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“前进”“上升”“急降”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 前进：
@@ -3484,22 +3518,14 @@ int32,byte,byte,Image,byte,str,str,str
 通过学会新的职业特性，能够发现隐藏特殊性质了。
 
 虽然不能经常发现隐藏特殊性质，不过一旦发现了请活用技能，不要放过这个好机会！","",""
-2040,1,0,152231,0,"
-获得了护符！
-
-使用护符后，在一定时间内会受到特别的加护。
-
-护符所给予的加护会根据护符的不同而不同，获得及使用护符时请确认好护符给予加护的职业与地域，以免白白浪费！","",""
-2041,1,0,152232,0,"
-在接受了特别加护的状态下进行采集的话，有时可以发现“隐秘采集地点”。
-
-在“隐秘采集地点”采集，有时可以获得稀有物品，如果发现了的话，请优先采集！","",""
+2040,0,0,0,0,"","",""
+2041,0,0,0,0,"","",""
 2050,1,0,152241,0,"
 获得了可以“精选”的道具。
 
-“精选”道具后道具会消失，不过相对的有时候会获得贵重道具。越是“收藏价值”高的道具，精选后越容易出现贵重道具。
+精选后该道具会消失。收藏价值越高的道具，精选后获得的道具就越多。
 
-多多收集“收藏价值”高的收藏品，努力地进行“精选”吧！","",""
+多多收集收藏价值高的收藏品，努力进行精选吧！","",""
 2060,1,0,152251,0,"
 “未知的采集地点”中，有一部分是需要获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“传承录”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>才能被发现的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“传说的采集地点”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
@@ -3541,7 +3567,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 如果是其他队员打开了宝箱，画面右下会弹出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>战利品通知<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。选择这个通知也会打开同样的窗口。","",""
 2100,1,0,152281,0,"
-达到规定人数或解除人数限制的小队在参加任务副本时，能够选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>仅限贪婪<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>队长分配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>这两种分配方式。
+达到规定人数或解除限制的小队在参加任务副本时，能够选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>仅限贪婪<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>队长分配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>这两种分配方式。
 
 ※队长可以在任务搜索器设置窗口中的分配方式里进行设定，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>任务中无法变更设定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 2101,1,0,152282,0,"
@@ -3565,7 +3591,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 另外，收藏品如果为可以“使用”的道具的话，虽然可以直接使用，但是不能够作为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作素材来使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。收藏品与普通的道具有着不一样的用法，请多注意。","",""
 2122,1,0,152303,0,"
-另外，制作<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“收藏品制作专用”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的道具后，必定会变为“收集品”。
+另外，制作<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“收藏品制作专用”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的道具后，必定会变为“收藏品”。
 
 道具品质越高，收藏价值也就越高。
 
@@ -3696,9 +3722,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 另外，在任务结束时，得到的经验值则会根据交任务时角色的等级进行调整。","",""
 2201,1,0,152372,0,"
-标有“职业固定”的任务只能以领取任务时的职业、特职来完成。
+一些领取任务时显示有职业限制的任务只能以领取任务时的职业来完成。
 
-任务途中若变更职业、特职，将导致任务无法继续进行下去，敬请注意。","",""
+任务途中若变更职业，将导致任务无法继续进行下去，敬请注意。","",""
 2210,1,0,152381,0,"
 一些特定的任务带有<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground>标记，意为任务设有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“职业固定”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，任务只能以领取任务时的职业、特职来完成。
 
@@ -3804,13 +3830,14 @@ int32,byte,byte,Image,byte,str,str,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※若不指定外貌，则可以使召唤兽恢复原状。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2262,1,0,152453,0,"
 文本指令的示例
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>/召唤兽投影 泰坦之灵 红宝石兽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>/召唤兽投影 宝石兽 伊弗利特之灵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-执行该指令后咏唱“召唤II”，就可以将泰坦之灵以红宝石兽的模样召唤出来。
+执行该指令后咏唱“宝石兽召唤”，就可以将宝石兽以伊弗利特之灵的模样召唤出来。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※可选择的外貌种类请参照更新笔记。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※使用下列文本指令后可查看能够选择的外貌种类
+/? /召唤兽投影。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2270,1,0,152461,0,"
-在身为冒险者提高名气、挑战更强的敌人时，不仅需要注意自己的职业等级，还需要注意<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>装备品级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
+在身为冒险者提高名气、挑战更强的敌人时，不仅需要注意自己的职业和职业等级，还需要注意<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>装备品级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>装备品级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是表示武器、防具及饰品强度的值，装备品级越高，装备就越强。","",""
 2271,1,0,152462,0,"
@@ -3839,32 +3866,11 @@ int32,byte,byte,Image,byte,str,str,str
 另外，通过任务搜索器发送高级任务的参加申请时，有时需要<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>平均品级达到一定值以上<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，否则将无法发送参加申请。
 
 若平均品级不足，就用亚拉戈神典石去交换装备，或在市场购买高品级装备，调整好装备后，再进行挑战吧！","",""
-2290,1,0,152481,0,"
-除了小队共通的报酬外，还有一种通过满足一定条件而出现的个人报酬。
-
-这种个人报酬是给每个人单独的报酬，发现时请注意拾取。","",""
-2300,1,0,152491,0,"
-“云冠群岛探索”是以达成探索任务为目标的副本。
-
-探索任务显示在目的列表中，请齐心协力达成任务。
-
-达成目的列表中的所有探索任务后将会获得报酬。","",""
-2301,1,0,152492,0,"
-在云冠群岛探索时，通过讨伐魔物等途径，可以令“宝箱”出现。
-
-请多做尝试，自由探索。","",""
-2302,1,0,152493,0,"
-另外，在探索云冠群岛时，有可能会遇到其他小队。
-
-当数个小队共同讨伐魔物时，只要对魔物造成一定量以上的伤害，即会被视作参加了讨伐。
-
-只要被视作参加了讨伐，就有几率令宝箱出现！","",""
-2303,1,0,152494,0,"
-限制时间过后，云冠群岛探索将会结束。距上次开始云冠群岛探索30分钟（地球时间）后，即可再次进入云冠群岛进行探索。
-
-另外，想要中途退出的话，可以打开任务搜索器点退出，或返回探索营地退出。
-
-退出后会自动脱离小队。","",""
+2290,0,0,0,0,"","",""
+2300,0,0,0,0,"","",""
+2301,0,0,0,0,"","",""
+2302,0,0,0,0,"","",""
+2303,0,0,0,0,"","",""
 2310,1,0,152501,0,"
 受到东方海洋诸神的加护，可以在水中活动了！
 
@@ -3904,7 +3910,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 烈羽争锋是冒险者分成两个阵营，使用哥布林族制造的兵器互相对战的竞技任务。
 
-前往狼狱水上竞技场可以在索伏特诺克斯处获得更多情报。","",""
+前往狼狱停船场可以在索伏特诺克斯处获得更多情报。","",""
 2340,1,0,152521,0,"
 开放了“刺鱼”。
 
@@ -3958,7 +3964,7 @@ int32,byte,byte,Image,byte,str,str,str
 2391,1,0,152582,0,"
 每个部位会被指定一个或数个主题。
 
-除腰带、副武器外的11个部位都是评分对象。选择贴合主题的时尚搭配吧。","",""
+除副武器外的11个部位都是评分对象。选择贴合主题的时尚搭配吧。","",""
 2392,1,0,152583,0,"
 假面·罗斯每周最多可以进行4次评分。
 
@@ -3996,7 +4002,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 准备各种用途的投影模板，轻松享受时尚吧！
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※只能在城内使用幻影模板进行武具投影。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※只能在城内或休息区使用幻影模板进行武具投影。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2440,1,0,152631,0,"
 可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔素板”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了！
 
@@ -4068,28 +4074,34 @@ int32,byte,byte,Image,byte,str,str,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>交流簿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是能让访问房屋的访客或者好友等在上面留言或者点赞的家具。
 
 房主可以在编辑房主留言界面编辑给访问房屋的人的留言。","",""
-2482,1,0,152682,0,"来访者可以选择“书写留言”留下自己的留言。
+2482,1,0,152682,0,"
+来访者可以选择“书写留言”留下自己的留言。
 
 想要删除留言可以点留言后面的“×”。只有房主本人或写这条留言的人能删除留言。","",""
-2483,1,0,152683,0,"房主能够选择让留言处于谁都能浏览的“公开状态”或者“非公开状态”。
+2483,1,0,152683,0,"
+房主能够选择让留言处于谁都能浏览的“公开状态”或者“非公开状态”。
 
 可以点击每条留言后面的“公开”“非公开”图标设定状态。","",""
-2484,1,0,152684,0,"来访者可以对房主进行“点赞”。
+2484,1,0,152684,0,"
+来访者可以对房主进行“点赞”。
 
 可以点赞的次数一开始有10次。之后每天恢复5次。
 
 要是有喜欢的房子，就大力对房主进行点赞，不要吝啬夸奖！","",""
-2485,1,0,152691,0,"和老主顾的信赖度上升，可以给他们“换装”了。
+2485,1,0,152691,0,"
+和老主顾的信赖度上升，可以给他们“换装”了。
 
 选择“换装”之后，就可以变更老主顾的服装。
 
 可以变更全套5件。","",""
-2486,1,0,152692,0,"老主顾的服装只能是所有种族和所有职业都能装备的。
+2486,1,0,152692,0,"
+老主顾的服装只能是所有种族和所有职业都能装备的。
 
 另外，换装和染色的时候会消耗相应触媒。
 
 选择你喜欢的装备装扮老主顾吧！","",""
-2487,1,0,152701,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幸福兔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为了还礼，
+2487,1,0,152701,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幸福兔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为了还礼，
 想要送给你财宝！
 
 使用任务道具<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幸运胡萝卜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
@@ -4101,7 +4113,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 请积极地探索幸福兔送给你的礼物吧！","",""
 2489,1,0,152711,0,"
-进入了运河宝物库的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>神殿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>区域！
+进入了宝物库的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>宝殿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>区域！
 
 在这里，可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召唤魔法阵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召唤守护财宝的怪物。
 
@@ -4139,64 +4151,79 @@ int32,byte,byte,Image,byte,str,str,str
 
 在市场布告板搜索时可以开启相关筛选，
 从次级指令中可以向卖家发送悄悄话联系。","",""
-2495,1,0,152723,0,"不按整套出售的话，买家从市场布告板就可以直接购买。
+2495,1,0,152723,0,"
+不按整套出售的话，买家从市场布告板就可以直接购买。
 
 “服装模特出售的装备”与“只按整套出售的装备”可以通过图标辨别。
 
 将中意的装备通过服装模特好好搭配一番，
 尝试进行销售吧！","",""
-2496,1,0,152731,0,"文理融合器开放了！
+2496,1,0,152731,0,"
+文理融合器开放了！
 
 可以将“文理碎晶”投入文理融合器中提取记忆，从而获得“文理技能”。","",""
-2497,1,0,152732,0,"文理技能获得后会存储在魔素板右侧的窗口中，最多可存储最近3次提取的技能。
+2497,1,0,152732,0,"
+文理技能获得后会存储在魔素板右侧的窗口中，最多可存储最近3次提取的技能。
 使用存储的文理技能即可获得其中的记忆，将其化为任务指令使用。","",""
-2498,1,0,152733,0,"融合后会出现的文理技能种类，
+2498,1,0,152733,0,"
+融合后会出现的文理技能种类，
 与放入融合器的碎晶种类、数量有关。
 请积极尝试各种组合。","",""
-2499,1,0,152741,0,"文理融合器得到了改良！
+2499,1,0,152741,0,"
+文理融合器得到了改良！
 
 经过改良的文理融合器分出了星极与灵极两边，可以将碎晶分别放入两边一起融合。
 每边最多可放入的碎晶数为3，
 需要注意的是左右合计放入超过3个碎晶后，融合成功率会开始下降。","",""
-2500,1,0,152742,0,"与风险相对，
+2500,1,0,152742,0,"
+与风险相对，
 一旦成功即可获得只占一个存储位的两个文理技能。
 请算好得失，善加利用。","",""
-2501,1,0,152751,0,"得到了可以和小队队员共同骑乘的坐骑！
+2501,1,0,152751,0,"
+得到了可以和小队队员共同骑乘的坐骑！
 
 在你骑乘该坐骑时，小队队员可以通过选中你，从次级指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共同骑乘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来乘上你的坐骑。
 
 和同伴一起愉快地踏上冒险之旅吧！","",""
-2502,1,0,152771,0,"青魔法师无法通过等级提升习得新的魔法技能。
+2502,1,0,152771,0,"
+青魔法师无法通过等级提升习得新的魔法技能。
 
 想要学习新的青魔法，需要在战斗中看到魔物使用能化为青魔法的技能，然后击败魔物后即会有一定几率学会。
 
 这一机制被称作<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>学习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，是青魔法师的职业特性。","",""
-2503,1,0,152772,0,"成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
+2503,1,0,152772,0,"
+成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
-想要使用学会的青魔法，需要打开青魔法书将青魔法设置到快捷栏上。
+想要使用学会的青魔法，需要打开青魔法书将青魔法设置到热键栏上。
 青魔法书可以通过快捷指令中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>选项开启。","",""
-2504,1,0,152773,0,"开启青魔法书后，可以通过勾选选出能设置到快捷栏的有效技能。
+2504,1,0,152773,0,"
+开启青魔法书后，可以通过勾选选出能设置到热键栏的有效技能。
 有效技能的上限为青魔法24种。","",""
-2505,1,0,152774,0,"在青魔法书中可以确认到青魔法的详细效果和解说，以及主要的学习地点等信息。
+2505,1,0,152774,0,"
+在青魔法书中可以确认到青魔法的详细效果和解说，以及主要的学习地点等信息。
 
-另外，在不使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“解除人数限制”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的情况下，通过任务搜索器参加副本任务后，会大幅提高学习的成功率。
+另外，在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>等级同步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>品级同步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的情况下，通过任务搜索器参加副本任务会大幅提高学习的成功率。
 
 多多利用这一点来学习新的青魔法吧！","",""
-2506,1,0,152761,0,"在最终幻想14的世界中，除了你创建角色时选择的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>原始服务器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>外，还有着很多其他的服务器。
+2506,1,0,152761,0,"
+在最终幻想14的世界中，除了你创建角色时选择的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>原始服务器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>外，还有着很多其他的服务器。
 通过某些城市的以太之光，可以传送到其他的世界中旅行！
 
 想要跨服找朋友玩耍时，记得利用此功能。","",""
-2507,1,0,152762,0,"想要从其他服务器返回原始服务器时，也是和去时一样使用城内的以太之光即可。
+2507,1,0,152762,0,"
+想要从其他服务器返回原始服务器时，也是和去时一样使用城内的以太之光即可。
 
 在造访其他服务器时会有一部分机能受到限制。
 
 详情请通过可进行跨界传送的以太之光进行确认。","",""
-2508,1,0,152775,0,"青魔法师的武器<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔杖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与通常的装备不同，不会为角色提供状态参数。
+2508,1,0,152775,0,"
+青魔法师的武器<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔杖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与通常的装备不同，不会为角色提供状态参数。
 
 不过青魔法师的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>智力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以提供高于其他职业的攻击伤害加成，请通过防具和饰品提升<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>智力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，让青魔法师变得更强吧！","",""
-2509,1,0,152776,0,"成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
+2509,1,0,152776,0,"
+成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
-想要使用学会的青魔法，需要打开青魔法书将青魔法设置到快捷栏上。
+想要使用学会的青魔法，需要打开青魔法书将青魔法设置到热键栏上。
 青魔法书可以通过快捷指令中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>选项开启。","",""
 2510,1,0,152781,0,"
 “双色宝石”是完成特定区域的临危受命任务时获得的宝石。
@@ -4214,3 +4241,175 @@ int32,byte,byte,Image,byte,str,str,str
 当前的危命任务完成度可在快捷指令的“危命任务完成度”里进行确认。
 
 部分稀有道具只能通过与广域交易商进行交易获取，请积极参与遇到的危命任务吧！","",""
+2520,1,0,152821,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>高难度配方<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是与普通配方不同的特殊配方。
+
+制作高难度配方时，会有与“高品质”和“最高品质”都不相同的各种状态。
+
+仔细观察各种状态，运用适当的技能制作出高品质的道具吧。","",""
+2530,1,0,152831,0,"
+习得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>耐心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
+
+使用捕鱼人的技能耐心后，可以更容易钓到大鱼。
+
+只是，在耐心效果中会大幅度降低<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提钩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的成功率","",""
+2531,1,0,152832,0,"
+在成功率降低的状态下使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>精准提钩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>强力提钩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为最佳选择。
+
+分辨出咬钩强度使用不同技能，可以打消提钩成功率降低的状态。
+
+在合适的时机使用两种不同的提钩，钓上大鱼吧！","",""
+2540,1,0,152841,0,"
+学会了时尚配饰！
+
+撑伞的技能在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时尚配饰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中，添加到热键栏后便可以使用。
+
+先试着使用一下技能，撑起伞吧。","",""
+2541,1,0,152842,0,"
+如果想要收起装备状态中的时尚配饰
+除了再次使用时尚配饰以外，
+还可以从特殊热键栏中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“收回”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※不论使用多少次，
+时尚配饰均不会被消耗。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+2550,1,0,152861,0,"
+可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“制作练习”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能了！
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作练习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是不使用材料进行的模拟练习。
+
+在挑战制作高难度配方之前，先通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作练习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来模拟一下制作过程吧。","",""
+2551,1,0,152862,0,"
+在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“制作笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“开始制作练习”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可开始<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“制作练习”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作练习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的操作和通常制作时是一样的。
+
+要注意，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作练习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即使成功了也不会获得道具和经验。","",""
+2552,1,0,152851,0,"
+可以进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>收藏品采集<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了！
+
+收藏品采集与以往的采集不同，
+是在提升<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>收藏价值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后进行的特殊采集。
+
+详细内容请从窗口左下的“？”标识进行确认。","",""
+2553,1,0,152871,0,"
+在进行采集时，触发<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外采集奖励<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，
+获得的道具数量将会额外增加一个。
+
+
+可以通过提高<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>鉴别力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来增加触发额外采集奖励的几率。
+
+通过搭配装备提高鉴别力，
+采集更多数量的道具吧！","",""
+2554,1,0,152881,0,"
+当鉴别力未满足条件时将无法采集部分道具。
+
+采集道具所需的鉴别力可以通过采集笔记进行确认。
+
+通过搭配装备提高鉴别力后，
+再前往采集地点吧！","",""
+2555,1,0,152891,0,"
+刺鱼是一种捕鱼人专用的
+用渔叉瞄准左右游动鱼类的小游戏。
+
+鱼的弱点会以<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>命中框<UIGlow>01</UIGlow><UIForeground>01</UIForeground>表示。
+使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>刺鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能刺中框内便可获取该鱼。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>获得力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>越高，命中框越大，
+较大的命中框更方便瞄准。","",""
+2556,1,0,152892,0,"
+刺鱼过程中，鱼会一直保持警惕，
+鱼的警惕状态会由<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>警惕度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来进行表示。
+
+警惕度会随着时间经过、发动刺鱼上升，
+当警惕度达到最大值时鱼会消失，捕鱼也会结束。","",""
+2557,1,0,152893,0,"
+此外，连续成功捕鱼时<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>连刺数<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会上升，
+连刺数越高，警惕度的上升速度越慢。
+
+精确瞄准鱼群，顺利积攒连刺数，
+争取在鱼群因警惕消失之前，
+捕获大量的鱼吧。","",""
+2558,1,0,152901,0,"
+在刺鱼过程中，
+获得一定数量的特定鱼类后，
+有可能触发<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>刺鱼人的直觉<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+刺鱼人的直觉状态中，
+可以发现隐藏起来的鱼，
+此时正是捕获稀少鱼的大好机会。","",""
+2559,1,0,152902,0,"
+随着时间的经过，
+难得现身的鱼也会提高警惕，
+从而再次隐匿踪迹。
+
+在发现稀少鱼之后，
+就积极地捕获它们吧！","",""
+2560,0,0,0,0,"","",""
+2561,0,0,0,0,"","",""
+2562,0,0,0,0,"","",""
+2563,0,0,0,0,"","",""
+2564,0,0,0,0,"","",""
+2565,0,0,0,0,"","",""
+2566,1,0,152921,0,"
+部分配方中的道具需要满足一定的品质才可以完成制作。
+否则即便是进展到最后也有可能失败。
+
+可以从制作笔记中确认完成制作所需的品质。
+活用“加工”等技能努力提高品质完成制作吧！","",""
+2567,1,0,152931,0,"
+收藏品当中存在具有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“不定性”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>性质的物品。
+
+具有不定性性质的收藏品在收藏价值达到最大值的状态下
+通过精选可以有一定几率获得稀有的道具。","",""
+2568,1,0,152932,0,"
+此外在收藏价值达到最大值的状态下，
+采集具有不定性性质的收藏品时
+有可能会引发<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>升华<UIGlow>01</UIGlow><UIForeground>01</UIForeground>现象。
+
+对升华后的收藏品进行精选后
+必定会获得稀有道具。","",""
+2569,1,0,152933,0,"
+收藏品升华的几率与玩家的获得力有关，
+获得力越高升华的几率也会随之提升。
+
+努力提升获得力，
+通过升华具有不定性性质的收藏品
+获取稀有的道具吧！","",""
+2570,1,0,152941,0,"
+习得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“大地使者职能技能”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
+
+大地使者职能技能是可以帮助大地使者
+寻找并发现采集地点的技能。","",""
+2571,1,0,152942,0,"
+习得大地使者职能技能，
+需要玩家提升大地使者职业的等级、
+完成特定的任务。
+
+习得后，不论哪种大地使者职业均可使用，
+还可以发现当前大地使者职业以外的采集地点。","",""
+2572,1,0,152943,0,"
+可以从快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+使用大地使者职能技能。
+
+技能菜单中有一项是职能技能，
+可以在此确认习得的技能。
+
+将想要使用的技能添加到热键栏，
+出发去寻找采集地点吧！","",""
+2573,0,0,0,0,"","",""
+2574,0,0,0,0,"","",""
+2575,0,0,0,0,"","",""
+2576,0,0,0,0,"","",""
+2577,0,0,0,0,"","",""
+2578,0,0,0,0,"","",""
+2579,0,0,0,0,"","",""
+2580,0,0,0,0,"","",""
+2581,0,0,0,0,"","",""
+2582,0,0,0,0,"","",""
+2583,0,0,0,0,"","",""
+2584,0,0,0,0,"","",""
+2585,0,0,0,0,"","",""
+2586,0,0,0,0,"","",""
+2587,0,0,0,0,"","",""
+2588,0,0,0,0,"","",""
+2589,0,0,0,0,"","",""
+2590,0,0,0,0,"","",""

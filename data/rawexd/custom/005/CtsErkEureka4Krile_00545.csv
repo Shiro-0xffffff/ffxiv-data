@@ -266,7 +266,7 @@ int32,str,str
 100,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_280","除了我之外大伙都已经不在了……
 其实……我从最初，就已经做好心理准备了。
 但是当事实重新摆在我眼前时……还真是很难受呢……"
-101,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_281","……啊啊啊啊啊啊啊！！"
+101,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_281","……啊——"
 102,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_282","现在还不是该伤心落泪的时候！
 还有事情必须要去完成！
 犹豫不前的话只会让爷爷他们笑话！"
@@ -376,7 +376,7 @@ int32,str,str
 143,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_522","你知道这意味着你必死无疑吗！完全没有生还希望的方案，
 就连赌命都算不上，那只是单纯的自杀行为啊！
 我作为巴尔德西昂委员会的一员，绝对无法认同你的方案！"
-144,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_100_522","再说了，无影·艾梅若萝丝已经被爷爷他们打倒了啊？
+144,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_100_522","再说了，无影艾梅若萝丝已经被爷爷他们打倒了啊？
 只要能够成功封印创神，就能去寻找其他的方法！"
 145,"TEXT_CTSERKEUREKA4KRILE_00545_EJIKATSUNJIKA_000_523","我虽然还有很多话可以反驳你……
 但咱们俩这么争论下去也只是永无交集的平行线。
@@ -528,9 +528,9 @@ int32,str,str
 203,"TEXT_CTSERKEUREKA4KRILE_00545_HANCOCK_000_663","哎呀……我深表遗憾……"
 204,"TEXT_CTSERKEUREKA4KRILE_00545_ROWENA_000_664","……然后，今后该怎么办？
 这里是你住过的岛屿吧？"
-205,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_665","我打算请萨雷安本国派人过来，
+205,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_665","我打算请萨雷安派人过来，
 回收残留的研究资料，负责事后处理。"
-206,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_666","我想请你们两商会支援萨雷安本国的人员在这座岛屿的工作。
+206,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_666","我想请你们两商会支援萨雷安的人员在这座岛屿的工作。
 作为回报，我准备开放港口给你们作为贸易的中转站。
 你们觉得怎么样？"
 207,"TEXT_CTSERKEUREKA4KRILE_00545_HANCOCK_000_667","既然这样，关于条件之类的虽然还需要详细洽谈，
@@ -539,7 +539,7 @@ int32,str,str
 208,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_668","我？我……"
 209,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_669","我打算回到拂晓血盟。
 这座岛上已经没有需要我做的事情了。
-联络萨雷安本国的事情当然还是由我来做。"
+联络萨雷安的事情当然还是由我来做。"
 210,"TEXT_CTSERKEUREKA4KRILE_00545_HANCOCK_000_670","原来如此，那这样的话等可露儿你安排好了再跟你详谈吧。
 在这期间能不能让调查队继续工作？"
 211,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_671","当然，我也正打算这样拜托你呢。"

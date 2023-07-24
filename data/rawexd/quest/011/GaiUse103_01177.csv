@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE103_01177_SEQ_00","圣阿达玛·兰达玛教会的伊琉德，有事情想要告诉冒险者。"
-1,"TEXT_GAIUSE103_01177_SEQ_01","有人在太阳海岸目击到了疑似芙·拉敏的舞女。和太阳海岸的地主格格鲁玖谈谈。"
+1,"TEXT_GAIUSE103_01177_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往沙之家找敏菲利亚重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE103_01177_SEQ_02","芙·拉敏已经辞去了在格格鲁玖这里的工作。前往位于太阳海岸西边的葡萄酒港，向当地居民打听一下情况。"
 3,"TEXT_GAIUSE103_01177_SEQ_03","打听到了情报，据说有一个猫魅族的舞女来过葡萄酒港。和夏马尼·洛马尼对话，获取更多情报。"
 4,"TEXT_GAIUSE103_01177_SEQ_04","疑似芙·拉敏的女性，去采摘某种鲜花了。前往葡萄酒港以南，寻找芙·拉敏。"
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSE103_01177_SEQ_21","空"
 22,"TEXT_GAIUSE103_01177_SEQ_22","空"
 23,"TEXT_GAIUSE103_01177_SEQ_23","空"
-24,"TEXT_GAIUSE103_01177_TODO_00","和太阳海岸的格格鲁玖对话"
-25,"TEXT_GAIUSE103_01177_TODO_01","在葡萄酒港收集情报"
-26,"TEXT_GAIUSE103_01177_TODO_02","和葡萄酒港的夏马尼·洛马尼对话"
-27,"TEXT_GAIUSE103_01177_TODO_03","寻找芙·拉敏"
-28,"TEXT_GAIUSE103_01177_TODO_04","和芙·拉敏对话"
-29,"TEXT_GAIUSE103_01177_TODO_05","和葡萄酒港的阿尔菲诺对话"
+24,"TEXT_GAIUSE103_01177_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE103_01177_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE103_01177_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE103_01177_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE103_01177_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSE103_01177_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSE103_01177_TODO_06","空"
 31,"TEXT_GAIUSE103_01177_TODO_07","空"
 32,"TEXT_GAIUSE103_01177_TODO_08","空"
@@ -68,19 +76,19 @@ int32,str,str
 虽然我不知道是不是你说的那个人，
 不过倒是有一个看上去很温柔的猫魅族女性来过这里。"
 56,"TEXT_GAIUSE103_01177_BYRGLAENT_000_030","你在找一个名叫芙·拉敏的舞女吗？
-前几天的确是有一个猫魅族的舞女来找葡萄酒。"
-57,"TEXT_GAIUSE103_01177_BYRGLAENT_000_031","她身上的香味会影响到葡萄酒香味的，
-所以我就请她出去了！"
+前几天的确是有一个猫魅族的舞女来买葡萄酒。"
+57,"TEXT_GAIUSE103_01177_BYRGLAENT_000_031","不过她身上的香味太强烈，会影响到葡萄酒的香味，
+我就请她出去了！"
 58,"TEXT_GAIUSE103_01177_BYRGLAENT_000_032","……哈，不过我可不敢保证你要找的人就是那个舞女。
 哼哼哼。"
 59,"TEXT_GAIUSE103_01177_SHAMANILOHMANI_000_040","这股气息……冒险者，是你吧？
 我怎么会忘记找到了“酒神葡萄”的人呢。"
-60,"TEXT_GAIUSE103_01177_SHAMANILOHMANI_000_041","……到访这里的猫魅族女性？
-啊，她现在应该还停留在葡萄酒港。
-因为她好像去采摘开在这附近的鲜花了。"
-61,"TEXT_GAIUSE103_01177_SHAMANILOHMANI_000_042","那种鲜花可以用来制作香料，她应该也是为这个目的去的。
-因为那种香味有些强烈，所以比格莱恩特有些抵触，
-不过那味道闻上去还是很舒服的，所以我倒是不怎么讨厌。"
+60,"TEXT_GAIUSE103_01177_SHAMANILOHMANI_000_041","到访这里的猫魅族女性？
+啊，她现在应该还没离开葡萄酒港。
+听说她是为了采摘这附近的鲜花而来。"
+61,"TEXT_GAIUSE103_01177_SHAMANILOHMANI_000_042","那是种能用来制作香料的鲜花，
+但香气浓郁扑鼻，让比格莱恩特有些抵触。
+不过我倒是觉得那味道闻起来很舒服。"
 62,"TEXT_GAIUSE103_01177_SHAMANILOHMANI_000_043","这么说来，今天还没有闻到过那股香味呢。
 说不定她又去采摘那种鲜花了。
 你可以去南边看看，那种鲜花就开在那边。"
@@ -136,7 +144,7 @@ int32,str,str
 你能再尽一份力吗？"
 85,"TEXT_GAIUSE103_01177_FLHAMINN_000_080","刚刚真是谢谢你了。
 呵呵，看到你的出色表现，不禁让我想起一个人。"
-86,"TEXT_GAIUSE103_01177_FLHAMINN_000_081","在我和我恋人犯下错误的情况下，拯救了乌尔达哈的冒险者。
+86,"TEXT_GAIUSE103_01177_FLHAMINN_000_081","那是一位冒险者，挽救了我和恋人犯下的错误，保护了乌尔达哈。
 而我现在只能想起那个人站在强光中的身影，而记不起脸庞。
-……这都是10多年前的事情了。"
+这都是10多年前的事情了。"
 87,"TEXT_GAIUSE103_01177_POP_MESSAGE","察觉到了敌人的气息！"

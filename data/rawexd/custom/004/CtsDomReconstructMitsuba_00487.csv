@@ -92,7 +92,7 @@ int32,str,str
 你找我有什么事吗？"
 40,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_FISHER00487_000_076","没别的事，就是我想把从红玉海捕到的鱼批发给你。
 当然贝类和藻类也有很多。"
-41,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_077","你这个提案倒是让我挺高兴，但是怎么这么突然啊。
+41,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_077","你这个提议倒是让我挺高兴，但是怎么这么突然啊。
 短时间能捕这么多鱼，是不是什么异变的前兆啊？"
 42,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_FISHER00487_000_078","不是不是，我们捕鱼量没有多少变化啦……
 应该说是人手变多了……人家给我们的……那个……"
@@ -115,13 +115,13 @@ int32,str,str
 49,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_SYSTEM_000_085","今后也请将物资放进<Sheet(EObj,2009567,0)/>，
 为了进一步的发展而努力吧！"
 50,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_090","毕竟是海贼众他们的请求，我就再弄些酒过来吧……
-他们喝酒时豪快的样子就仿佛像是为了酒宴而活的。"
+他们喝酒时豪快的样子就仿佛是为了酒宴而活的。"
 51,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_100","红玉海产的美味鱼类全都摆出来了哦！
 现场烹饪加工后还会卖给那边的小酒铺。
 你要不要买点糖回去做礼品啊？"
-52,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_110","你们俩来的正好。
+52,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_110","你们俩来得正好。
 尤其是<Highlight>ObjectParameter(1)</Highlight>，
-我就是想让你看看现在的百货市场！"
+我一直想让你看看现在的百货市场！"
 53,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_111","来吧，用你的眼睛与鼻子去享受这幸福的市场吧！"
 54,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_112","……这里真的大变样了。
 就像计划好的一样……

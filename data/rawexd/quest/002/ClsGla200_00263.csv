@@ -8,7 +8,7 @@ int32,str,str
 4,"TEXT_CLSGLA200_00263_SEQ_04","将蝎纹戒指交给情报商维蒙德，说不定能获得些情报。和翠玉大街的维蒙德对话。"
 5,"TEXT_CLSGLA200_00263_SEQ_05","蝎纹戒指是犯罪团伙钳蝎帮的成员的。维蒙德说，此事很危险，最好不要插手。回到剑术师行会，向密拉报告。"
 6,"TEXT_CLSGLA200_00263_SEQ_06","据说，钳蝎帮预谋在近期袭击白银集市。密拉不顾阿尔迪斯的劝阻，准备阻止此计划。前往白银集市，与密拉汇合。"
-7,"TEXT_CLSGLA200_00263_SEQ_07","与行会中的伙伴齐心协力，赶走了袭击白银集市的盗贼团。见到盗賊団的首领，密拉很是震惊。回到剑术师行会，和密拉对话。"
+7,"TEXT_CLSGLA200_00263_SEQ_07","与行会中的伙伴齐心协力，赶走了袭击白银集市的盗贼团。见到盗贼团的首领，密拉很是震惊。回到剑术师行会，和密拉对话。"
 8,"TEXT_CLSGLA200_00263_SEQ_08","钳蝎帮的首领名为利沃尔德。此人曾是名剑术师，与阿尔迪斯被并称为纳尔札尔双剑。密拉至今都为昔日的两好友吵翻一事痛心。他们三人间到底发生过什么事……
 
 ※剑术师的等级达到25级以上时，可以从密拉那里领取下一个剑术师任务。"
@@ -193,7 +193,7 @@ int32,str,str
 125,"TEXT_CLSGLA200_00263_NPCA_000_505","残党么！"
 126,"TEXT_CLSGLA200_00263_MYLLA_000_506","别去！"
 127,"TEXT_CLSGLA200_00263_ZANA_000_507","(-？？？？-)……脆弱……不堪一击的剑……
-……也没有说的那么厉害……"
+……也没有说得那么厉害……"
 128,"TEXT_CLSGLA200_00263_REHWOLDT_000_508","(-？？？？-)别管那些杂兵。
 我们走，扎纳。"
 129,"TEXT_CLSGLA200_00263_MYLLA_000_509","……难道……是……利沃尔德？"
@@ -260,7 +260,7 @@ int32,str,str
 167,"TEXT_CLSGLA200_00263_MYLLA_BATTLETALK_002_2","<Highlight>ObjectParameter(1)</Highlight>，用你的盾制住幻术师！"
 168,"TEXT_CLSGLA200_00263_MYLLA_BATTLETALK_003","还有咒术师么！小心火焰系的高级魔法！"
 169,"TEXT_CLSGLA200_00263_MYLLA_BATTLETALK_004","咳，魔力撑不住了！要赶快分出胜负！"
-170,"TEXT_CLSGLA200_00263_QIB_BATTLETALK_GUILDMEMBER_A_HP0","唔啊啊啊啊啊啊啊！！"
+170,"TEXT_CLSGLA200_00263_QIB_BATTLETALK_GUILDMEMBER_A_HP0","唔、啊——"
 171,"TEXT_CLSGLA200_00263_QIB_BATTLETALK_GUILDMEMBER_B_HP0","密拉会长……对不起……"
 172,"TEXT_CLSGLA200_00263_QIB_BATTLETALK_GUILDMEMBER_C_HP0","会长就……拜托你了……"
 173,"TEXT_CLSGLA200_00263_QIB_BATTLETALK_GUILDMEMBER_D_HP0","到此为止了么……"

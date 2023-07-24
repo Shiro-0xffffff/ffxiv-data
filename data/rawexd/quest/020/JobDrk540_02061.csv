@@ -184,8 +184,8 @@ int32,str,str
 113,"TEXT_JOBDRK540_02061_RIELLE_000_145","他们把我抓到牢房里，
 对我说不能放我活下去，让我在牢房里待着……"
 114,"TEXT_JOBDRK540_02061_RIELLE_000_146","牢房的墙壁十分坚硬，敲得我手都红了。
-铁窗也十分冰冷……
-因此我……哪儿都去不了。"
+铁窗也冷若冰霜……
+因此我……哪都去不了。"
 115,"TEXT_JOBDRK540_02061_RIELLE_000_147","后来他们终于肯放我出来，
 跟着他们走啊走，他们竟然要杀我。
 但是希德勒格和弗雷救了我……"
@@ -236,7 +236,7 @@ int32,str,str
 143,"TEXT_JOBDRK540_02061_RIELLE_BATTLETALK_02","追兵？
 快逃……"
 144,"TEXT_JOBDRK540_02061_TEMPLEKNIGHT_BATTLETALK_02","快追！快追！
-上边下命，要她的脑袋！"
+上边下命令，要她的脑袋！"
 145,"TEXT_JOBDRK540_02061_TEMPLEKNIGHT_BATTLETALK_03","无"
 146,"TEXT_JOBDRK540_02061_RIELLE_BATTLETALK_03","无"
 147,"TEXT_JOBDRK540_02061_TEMPLEKNIGHT_BATTLETALK_04","你是逃不掉的！

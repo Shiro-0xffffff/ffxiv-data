@@ -102,9 +102,9 @@ int32,str,str
 65,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_026","这两样东西恐怕都不太容易获得。
 但如果不弄到它们，特殊物质就只能是梦中泡影……
 麻烦你了。"
-66,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_027","……啊啊啊，没错，这就是<Sheet(Item,9542,0)/>！
-品质也不坏，用它应该就没问题。
-下面去找来<Sheet(EventItem,2001532,0)/>和<Sheet(EventItem,2001533,0)/>吧。"
+66,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_027","……啊，没错，这就是<Sheet(Item,9542,0)/>！
+品质也不错，用它应该就没问题。
+然后把<Sheet(EventItem,2001532,0)/>和<Sheet(EventItem,2001533,0)/>找来吧。"
 67,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_028","<Sheet(EventItem,2001532,0)/>是在黄金谷，
 <Sheet(EventItem,2001533,0)/>应该能在妖异众多的地方找到。"
 68,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_029","虽然想取得它们会有一些难度，
@@ -184,7 +184,7 @@ int32,str,str
 101,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_074","它是一种能够感应到工匠的精神、思绪，
 并根据工匠的要求改变性质的物质。
 也只有用这种物质做材料，才能再铸出已经失落的黄道武器！"
-102,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_075","而这究级的精神感应物质，
+102,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_075","而这究极的精神感应物质，
 我就将其命名为<Sheet(Item,9507,0)/>！"
 103,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_076","作为一名工匠，我非常感谢你邀请我进行这次制作。
 像这样踏入前所未闻的领域，

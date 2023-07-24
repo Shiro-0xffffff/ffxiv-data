@@ -93,7 +93,7 @@ int32,str,str
 看来这是一场帝国内部的战斗！"
 43,"TEXT_VOICEMAN_04400_000440_ALISAIE","怎么会这样……
 那阿尔菲诺是被帝国军给捉住了？！"
-44,"TEXT_VOICEMAN_04400_Q1_000_001_NONE_VOICE","怎么回答？"
+44,"TEXT_VOICEMAN_04400_Q1_000_001_NONE_VOICE","如何作答？"
 45,"TEXT_VOICEMAN_04400_A1_000_001_NONE_VOICE","还不能肯定"
 46,"TEXT_VOICEMAN_04400_A1_000_002_NONE_VOICE","我们要相信阿尔菲诺"
 47,"TEXT_VOICEMAN_04400_000450_HIEN","没错，现在下结论还为时过早。
@@ -131,12 +131,12 @@ int32,str,str
 61,"TEXT_VOICEMAN_04400_000590_HIEN","在夜露召唤蛮神时，
 朝阳大肆宣扬是多玛人召唤蛮神的。"
 62,"TEXT_VOICEMAN_04400_000600_HIEN","而现在这个流言在帝国本土广为流传。
-这一连事件的背后一定有黑幕在暗中策划，
+这一连串事件的背后一定有黑幕在暗中策划，
 应该就是那个以芝诺斯的身份行动的人。"
 63,"TEXT_VOICEMAN_04400_000610_YSHTOLA","问题就是，
 那很有可能是无影在操纵着芝诺斯的身体。"
 64,"TEXT_VOICEMAN_04400_000620_HIEN","这些家伙真对得起混沌的使者这个称号。
-就因为他们暗中做梗，
+就因为他们暗中作梗，
 多玛又陷入了随时可能遭受帝国攻击的困境！"
 65,"TEXT_VOICEMAN_04400_000630_HIEN","不管是谁下的命令，
 皇帝不可能不知道亲卫军的动向。
@@ -335,7 +335,7 @@ int32,str,str
 月神的力量也随你们使用。"
 159,"TEXT_VOICEMAN_04400_001540_SADU","你也没什么意见吧？"
 160,"TEXT_VOICEMAN_04400_001550_MAGNAI","哼。
-我可不像你那么缺心眼儿……
+我可不像你那么缺心眼……
 但是，这次的结果我是认可的。"
 161,"TEXT_VOICEMAN_04400_001560_MAGNAI","奥罗尼部的传统本就是用勇气和力量来分个高下。
 既然这次你们证明了自己，我也不会小气。
@@ -415,7 +415,7 @@ int32,str,str
 200,"TEXT_VOICEMAN_04400_001950_YSHTOLA","你有什么想法了？"
 201,"TEXT_VOICEMAN_04400_001960_MERLWYB","说来听听吧。
 关于无影，拂晓的各位是最有发言权的，
-我们在这件事情上会最大程度的重视各位的意见。"
+我们在这件事情上会最大程度地重视各位的意见。"
 202,"TEXT_VOICEMAN_04400_001970_MERLWYB","虽然，这样做会有一定程度的风险，
 但是在场的同盟成员们已经有过商议，
 这是我们的一致意见。"
@@ -458,7 +458,7 @@ int32,str,str
 我们这就开始情报战吧，也不要疏忽了国境线的戒备！"
 219,"TEXT_VOICEMAN_04400_002140_MYSTERYVOICE","——不得——道路——"
 220,"TEXT_VOICEMAN_04400_002150_MYSTERYVOICE","——必须——历史——"
-221,"TEXT_VOICEMAN_04400_Q2_000_001_NONE_VOICE","怎么回答？"
+221,"TEXT_VOICEMAN_04400_Q2_000_001_NONE_VOICE","如何作答？"
 222,"TEXT_VOICEMAN_04400_A2_000_001_NONE_VOICE","你是谁？！"
 223,"TEXT_VOICEMAN_04400_A2_000_002_NONE_VOICE","你在说什么？"
 224,"TEXT_VOICEMAN_04400_002160_MYSTERYVOICE","灵灾将再次降临――"
@@ -478,7 +478,7 @@ int32,str,str
 我的下属中应该也有几位，让他们也做好准备。"
 237,"TEXT_VOICEMAN_04400_002290_KANESENNA","要尽快！"
 238,"TEXT_VOICEMAN_04400_002300_RESISTANCEHEALER","桑克瑞德先生暂时安置在房间里。
-脉博是稳定了，只是意识还没有恢复……"
+脉搏是稳定了，只是意识还没有恢复……"
 239,"TEXT_VOICEMAN_04400_002310_LYSE","辛苦你了……
 只不过，为什么只有桑克瑞德会失去意识呢……"
 240,"TEXT_VOICEMAN_04400_002320_RESISTANCEHEALER","我对大家都做过一次检查了。
@@ -495,7 +495,7 @@ int32,str,str
 245,"TEXT_VOICEMAN_04400_002370_YSHTOLA","我和阿莉塞在桑克瑞德晕倒前听到了神秘的声音，
 同时脑袋就像是被人在里面搅动一般疼痛……
 你遭遇的也是一样的状况？"
-246,"TEXT_VOICEMAN_04400_002380_ALISAIE","……不止声音，你还感觉处在了一个不同的空间？"
+246,"TEXT_VOICEMAN_04400_002380_ALISAIE","……不只声音，你还感觉处在了一个不同的空间？"
 247,"TEXT_VOICEMAN_04400_002390_KANESENNA","我想这应该是你被某人呼唤，
 而使得灵魂差点脱离肉体的缘故。"
 248,"TEXT_VOICEMAN_04400_002400_YSHTOLA","被人呼唤？"
@@ -565,7 +565,7 @@ int32,str,str
 快醒醒啊！"
 286,"TEXT_VOICEMAN_04400_002780_MAELSTROMOFFICER","人已经带来了。"
 287,"TEXT_VOICEMAN_04400_002790_ALISAIE","嘎埠，好久没见了呢。"
-288,"TEXT_VOICEMAN_04400_002795_GABU","…………"
+288,"TEXT_VOICEMAN_04400_002795_GABU","……"
 289,"TEXT_VOICEMAN_04400_002800_MAELSTROMOFFICER","他还是什么都不说……
 只是也不会闹起来，
 和上次相比状况没有什么改变。"
@@ -587,7 +587,7 @@ int32,str,str
 298,"TEXT_VOICEMAN_04400_002880_ALISAIE","这次又是这样……
 哥哥和同伴们陷入危机，可我还是无能为力……
 我……实在是不甘心啊……"
-299,"TEXT_VOICEMAN_04400_Q3_000_001_NONE_VOICE","怎么回答？"
+299,"TEXT_VOICEMAN_04400_Q3_000_001_NONE_VOICE","如何作答？"
 300,"TEXT_VOICEMAN_04400_A3_000_001_NONE_VOICE","还有我在呢。"
 301,"TEXT_VOICEMAN_04400_A3_000_002_NONE_VOICE","你不要一个人担着。"
 302,"TEXT_VOICEMAN_04400_002890_ALISAIE","谢谢，你还是这么可靠呢。"

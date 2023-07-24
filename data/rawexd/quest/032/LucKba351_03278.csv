@@ -163,7 +163,7 @@ int32,str,str
 102,"TEXT_LUCKBA351_03278_LUEREEQ_BATTLETALK_001_001","我用音爆箭封住勇德的行动，
 <Highlight>ObjectParameter(1)</Highlight>就趁此机会解决掉她！"
 103,"TEXT_LUCKBA351_03278_LUEREEQ_BATTLETALK_000_001","吃我一记全力的音爆箭！"
-104,"TEXT_LUCKBA351_03278_ANDREIA_BATTLETALK_000_002","呃啊啊……"
+104,"TEXT_LUCKBA351_03278_ANDREIA_BATTLETALK_000_002","呃、啊……"
 105,"TEXT_LUCKBA351_03278_LUEREEQ_BATTLETALK_000_003","太好了，有效果！
 趁现在将勇德……"
 106,"TEXT_LUCKBA351_03278_LUEREEQ_BATTLETALK_000_004","什么？！他们在……保护勇德？
@@ -195,7 +195,7 @@ int32,str,str
 126,"TEXT_LUCKBA351_03278_LUEREEQ_000_111","怎么了？
 你发现什么东西了吗？"
 127,"TEXT_LUCKBA351_03278_LUEREEQ_000_112","什……
-你是…………"
+你是……"
 128,"TEXT_LUCKBA351_03278_LUEREEQ_100_112","任妲……芮？"
 129,"TEXT_LUCKBA351_03278_RENDARAE_000_113","(-任妲·芮的幻影-)自从与微笑妖豹战斗时被同伴所救之后，
 我就发誓要为了同伴而活……"
@@ -203,7 +203,7 @@ int32,str,str
 我虽然心里也很害怕……但还是选择了与同伴并肩作战。"
 131,"TEXT_LUCKBA351_03278_RENDARAE_000_115","(-任妲·芮的幻影-)为了跟随同伴，我舍弃了自己的自由。
 打倒了影之王之后我才知道，身在故乡的父母已经去世了。
-但有所失去的不止我，同伴也是一样。"
+但有所失去的不只我，同伴也是一样。"
 132,"TEXT_LUCKBA351_03278_RENDARAE_000_116","(-任妲·芮的幻影-)为了拯救世界，大家都奉献了自己的全部。
 可是……我们却没能拯救世界……"
 133,"TEXT_LUCKBA351_03278_RENDARAE_000_117","(-任妲·芮的幻影-)为了拯救世界，同伴选择了自绝性命。

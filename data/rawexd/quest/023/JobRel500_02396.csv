@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_JOBREL500_02396_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>特殊规则： 职业固定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 阿尔达希尔有个好消息要告诉冒险者。"
 1,"TEXT_JOBREL500_02396_SEQ_01","※本任务为<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 职业固定任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 ※另外，本任务无法直接从日志放弃。
 　需要放弃时请和阿尔达希尔进行对话。
 
@@ -172,7 +172,7 @@ int32,str,str
 97,"TEXT_JOBREL500_02396_ARDASHIR_000_045","别这样一脸嫌弃的样子好不……
 等你准备好后，跟加工系统再对一下话吧。
 到时我告诉你具体需要什么材料。"
-98,"TEXT_JOBREL500_02396_ARDASHIR_000_046","然后，重要的准备工作不只有这一项。"
+98,"TEXT_JOBREL500_02396_ARDASHIR_000_046","然后，重要的准备工作不止这一项。"
 99,"TEXT_JOBREL500_02396_ARDASHIR_100_046","除了制造移植人造元灵用的<Sheet(Item,16932,0)/>外，
 还有一件事需要你的帮助。"
 100,"TEXT_JOBREL500_02396_ARDASHIR_100_047","你去跟认证系统对话，我给你具体进行说明。"
